@@ -1,66 +1,66 @@
 [
   {
-    "id": 0,
-    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lucius.png",
-    "Name": "Lucius",
-    "Faction": "Lightbearer",
-    "Type": "Strength",
-    "Class": "Tank"
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lucius.png",
+    "name": "Lucius",
+    "tier": "Ascended",
+    "faction": "Lightbearer",
+    "type": "Strength",
+    "class": "Tank"
   },
   {
-    "id": 1,
-    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Belinda.png",
-    "Name": "Belinda",
-    "Faction": "Lightbearer",
-    "Type": "Intelligence",
-    "Class": "Mage"
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Belinda.png",
+    "name": "Belinda",
+    "tier": "Ascended",
+    "faction": "Lightbearer",
+    "type": "Intelligence",
+    "class": "Mage"
   },
   {
-    "id": 2,
-    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rosaline.png",
-    "Name": "Rosaline",
-    "Faction": "Lightbearer",
-    "Type": "Intelligence",
-    "Class": "Support"
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rosaline.png",
+    "name": "Rosaline",
+    "tier": "Ascended",
+    "faction": "Lightbearer",
+    "type": "Intelligence",
+    "class": "Support"
   },
   {
-    "id": 3,
-    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hendrik.png",
-    "Name": "Hendrik",
-    "Faction": "Lightbearer",
-    "Type": "Strength",
-    "Class": "Tank"
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hendrik.png",
+    "name": "Hendrik",
+    "tier": "Ascended",
+    "faction": "Lightbearer",
+    "type": "Strength",
+    "class": "Tank"
   },
   {
-    "id": 4,
-    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rowan.png",
-    "Name": "Rowan",
-    "Faction": "Lightbearer",
-    "Type": "Intelligence",
-    "Class": "Support"
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rowan.png",
+    "name": "Rowan",
+    "tier": "Ascended",
+    "faction": "Lightbearer",
+    "type": "Intelligence",
+    "class": "Support"
   },
   {
-    "id": 5,
-    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Fawkes.png",
-    "Name": "Fawkes",
-    "Faction": "Lightbearer",
-    "Type": "Agility",
-    "Class": "Ranger"
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Fawkes.png",
+    "name": "Fawkes",
+    "tier": "Ascended",
+    "faction": "Lightbearer",
+    "type": "Agility",
+    "class": "Ranger"
   },
   {
-    "id": 6,
-    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ferael.png",
-    "Name": "Ferael",
-    "Faction": "Graveborn",
-    "Type": "Agility",
-    "Class": "Ranger"
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ferael.png",
+    "name": "Ferael",
+    "tier": "Ascended",
+    "faction": "Graveborn",
+    "type": "Agility",
+    "class": "Ranger"
   },
   {
-    "id": 7,
-    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Talene.png",
-    "Name": "Talene",
-    "Faction": "Celestial",
-    "Type": "Agility",
-    "Class": "Support"
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Talene.png",
+    "name": "Talene",
+    "tier": "Ascended",
+    "faction": "Celestial",
+    "type": "Agility",
+    "class": "Support"
   }
 ]
