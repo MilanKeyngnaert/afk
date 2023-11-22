@@ -48,6 +48,14 @@
     "class": "Ranger"
   },
   {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Cecilia.png",
+    "name": "Cecilia",
+    "tier": "Ascended",
+    "faction": "Lightbearer",
+    "type": "Agility",
+    "class": "Ranger"
+  },
+  {
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ferael.png",
     "name": "Ferael",
     "tier": "Ascended",
@@ -56,11 +64,83 @@
     "class": "Ranger"
   },
   {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Athalia.png",
+    "name": "Athalia",
+    "tier": "Ascended",
+    "faction": "Celestial",
+    "type": "Agility",
+    "class": "Ranger"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Elijah & Lailah.png",
+    "name": "Elijah & Lailah",
+    "tier": "Ascended",
+    "faction": "Celestial",
+    "type": "Intelligence",
+    "class": "Support"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Flora.png",
+    "name": "Flora",
+    "tier": "Ascended",
+    "faction": "Celestial",
+    "type": "Intelligence",
+    "class": "Mage"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Orthos.png",
+    "name": "Orthos",
+    "tier": "Ascended",
+    "faction": "Celestial",
+    "type": "Strength",
+    "class": "Tank"
+  },
+  {
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Talene.png",
     "name": "Talene",
     "tier": "Ascended",
     "faction": "Celestial",
     "type": "Agility",
     "class": "Support"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Wu-kong.png",
+    "name": "Wu-kong",
+    "tier": "Ascended",
+    "faction": "Celestial",
+    "type": "Strength",
+    "class": "Warrior"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ezizh.png",
+    "name": "Ezizh",
+    "tier": "Ascended",
+    "faction": "Hypogean",
+    "type": "Strength",
+    "class": "Support"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Khazard.png",
+    "name": "Khazard",
+    "tier": "Ascended",
+    "faction": "Hypogean",
+    "type": "Intelligence",
+    "class": "Mage"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Mehira.png",
+    "name": "Mehira",
+    "tier": "Ascended",
+    "faction": "Hypogean",
+    "type": "Intelligence",
+    "class": "Mage"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Zolrath.png",
+    "name": "Zolrath",
+    "tier": "Ascended",
+    "faction": "Hypogean",
+    "type": "Agility",
+    "class": "Warrior"
   }
 ]
