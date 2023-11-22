@@ -48,11 +48,19 @@
     "Class": "Ranger"
   },
   {
-    "id": 5,
+    "id": 6,
     "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ferael.png",
     "Name": "Ferael",
     "Faction": "Graveborn",
     "Type": "Agility",
     "Class": "Ranger"
+  },
+  {
+    "id": 7,
+    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Talene.png",
+    "Name": "Talene",
+    "Faction": "Celestial",
+    "Type": "Agility",
+    "Class": "Support"
   }
 ]
