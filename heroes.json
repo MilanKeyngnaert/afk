@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "ditmoetImageWorden": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lucius.png",
+    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lucius.png",
     "Name": "Lucius",
     "Faction": "Lightbearer",
     "Type": "Strength",
@@ -44,6 +44,14 @@
     "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Fawkes.png",
     "Name": "Fawkes",
     "Faction": "Lightbearer",
+    "Type": "Agility",
+    "Class": "Ranger"
+  },
+  {
+    "id": 5,
+    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ferael.png",
+    "Name": "Ferael",
+    "Faction": "Graveborn",
     "Type": "Agility",
     "Class": "Ranger"
   }
