@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lucius.png",
+    "Name": "Lucius",
+    "Faction": "Lightbearer",
+    "Type": "Strength",
+    "Class": "Tank"
+  },
+  {
+    "id": 1,
+    "Name": "Belinda",
+    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Belinda.png",
+    "Faction": "Lightbearer",
+    "Type": "Intelligence",
+    "Class": "Mage"
+  },
+  {
+    "id": 2,
+    "Name": "Rosaline",
+    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rosaline.png",
+    "Faction": "Lightbearer",
+    "Type": "Intelligence",
+    "Class": "Support"
+  },
+  {
+    "id": 3,
+    "Name": "Hendrik",
+    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hendrik.png",
+    "Faction": "Lightbearer",
+    "Type": "Strength",
+    "Class": "Tank"
+  },
+  {
+    "id": 4,
+    "Name": "Rowan",
+    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rowan.png",
+    "Faction": "Lightbearer",
+    "Type": "Intelligence",
+    "Class": "Support"
+  }
+]
