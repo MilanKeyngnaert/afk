@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lucius.png",
+    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lucius.png",
     "Name": "Lucius",
     "Faction": "Lightbearer",
     "Type": "Strength",
@@ -9,7 +9,7 @@
   },
   {
     "id": 1,
-    "Image": "https://raw.githubusercontent.com/MilanKeyngnaert/afk/main/heroIcons/Belinda.png",
+    "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Belinda.png",
     "Name": "Belinda",
     "Faction": "Lightbearer",
     "Type": "Intelligence",
