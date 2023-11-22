@@ -9,32 +9,32 @@
   },
   {
     "id": 1,
-    "Name": "Belinda",
     "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Belinda.png",
+    "Name": "Belinda",
     "Faction": "Lightbearer",
     "Type": "Intelligence",
     "Class": "Mage"
   },
   {
     "id": 2,
-    "Name": "Rosaline",
     "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rosaline.png",
+    "Name": "Rosaline",
     "Faction": "Lightbearer",
     "Type": "Intelligence",
     "Class": "Support"
   },
   {
     "id": 3,
-    "Name": "Hendrik",
     "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hendrik.png",
+    "Name": "Hendrik",
     "Faction": "Lightbearer",
     "Type": "Strength",
     "Class": "Tank"
   },
   {
     "id": 4,
-    "Name": "Rowan",
     "Image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rowan.png",
+    "Name": "Rowan",
     "Faction": "Lightbearer",
     "Type": "Intelligence",
     "Class": "Support"
