@@ -406,5 +406,37 @@
     "faction": "Wilder",
     "type": "Intelligence",
     "class": "Support"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ainz.png",
+    "name": "Ainz",
+    "tier": "Ascended",
+    "faction": "Dimensional",
+    "type": "Intelligence",
+    "class": "Mage"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Albedo.png",
+    "name": "Albedo",
+    "tier": "Ascended",
+    "faction": "Dimensional",
+    "type": "Strength",
+    "class": "Tank"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rem.png",
+    "name": "Rem",
+    "tier": "Ascended",
+    "faction": "Dimensional",
+    "type": "Strength",
+    "class": "Warrior"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Emilia.png",
+    "name": "Emilia",
+    "tier": "Ascended",
+    "faction": "Dimensional",
+    "type": "Intelligence",
+    "class": "Mage"
   }
 ]
