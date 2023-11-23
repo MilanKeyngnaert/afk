@@ -398,5 +398,13 @@
     "faction": "Mauler",
     "type": "Intelligence",
     "class": "Support"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png",
+    "name": "Dreaf",
+    "tier": "Common",
+    "faction": "Wilder",
+    "type": "Intelligence",
+    "class": "Support"
   }
 ]
