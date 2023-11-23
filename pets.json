@@ -1,74 +1,74 @@
 [
   {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Bellbellow.png",
-    "name": "Bellbellow"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Blade Ridge.png",
-    "name": "Blade Ridge"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Dreary Ball.png",
-    "name": "Dreary Ball"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Feline Vesperio.png",
-    "name": "Feline Vesperio"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Fire Breather.png",
-    "name": "Fire Breather"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Flutterplume Owl.png",
-    "name": "Flutterplume Owl"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Fox Fatale.png",
-    "name": "Fox Fatale"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Grassy Orb.png",
-    "name": "Grassy Orb"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Phantasmoth.png",
-    "name": "Phantasmoth"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Polar Beast.png",
-    "name": "Polar Beast"
-  },
-  {
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Radish Rotunda.png",
     "name": "Radish Rotunda"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Rock Crown Lizard.png",
-    "name": "Rock Crown Lizard"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Savage Soufflé.png",
-    "name": "Savage Soufflé"
   },
   {
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Shroom Spooder.png",
     "name": "Shroom Spooder"
   },
   {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Fox Fatale.png",
+    "name": "Fox Fatale"
+  },
+  {
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Slumber Seal.png",
     "name": "Slumber Seal"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Savage Soufflé.png",
+    "name": "Savage Soufflé"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Phantasmoth.png",
+    "name": "Phantasmoth"
   },
   {
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Talismane.png",
     "name": "Talismane"
   },
   {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Tufty Ears.png",
-    "name": "Tufty Ears"
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Flutterplume Owl.png",
+    "name": "Flutterplume Owl"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Bellbellow.png",
+    "name": "Bellbellow"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Feline Vesperio.png",
+    "name": "Feline Vesperio"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Rock Crown Lizard.png",
+    "name": "Rock Crown Lizard"
   },
   {
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Winged Lion.png",
     "name": "Winged Lion"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Blade Ridge.png",
+    "name": "Blade Ridge"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Fire Breather.png",
+    "name": "Fire Breather"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Polar Beast.png",
+    "name": "Polar Beast"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Grassy Orb.png",
+    "name": "Grassy Orb"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Tufty Ears.png",
+    "name": "Tufty Ears"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Dreary Ball.png",
+    "name": "Dreary Ball"
   }
 ]
