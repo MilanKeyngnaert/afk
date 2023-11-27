@@ -18,7 +18,34 @@
         "pet": "Slumber Seal"
     },
     {
-        "name": "placeholder1",
+        "name": "dummyFormation1",
+        "1": "Dreaf",
+        "2": "",
+        "3": "Dreaf",
+        "4": "Dreaf",
+        "5": "Dreaf",
+        "pet": ""
+    },
+    {
+        "name": "dummyFormation2",
+        "1": "Dreaf",
+        "2": "Dreaf",
+        "3": "Dreaf",
+        "4": "",
+        "5": "Dreaf",
+        "pet": ""
+    },
+    {
+        "name": "dummyFormation3",
+        "1": "Dreaf",
+        "2": "Dreaf",
+        "3": "Dreaf",
+        "4": "Dreaf",
+        "5": "",
+        "pet": ""
+    },
+    {
+        "name": "dummyFormation4",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -27,7 +54,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder2",
+        "name": "dummyFormation5",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -36,7 +63,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder3",
+        "name": "dummyFormation6",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -45,7 +72,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder4",
+        "name": "dummyFormation7",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -54,7 +81,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder5",
+        "name": "dummyFormation8",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -63,7 +90,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder6",
+        "name": "dummyFormation9",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -72,7 +99,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder7",
+        "name": "dummyFormation10",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -81,7 +108,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder8",
+        "name": "dummyFormation11",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -90,7 +117,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder9",
+        "name": "dummyFormation12",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -99,7 +126,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder10",
+        "name": "dummyFormation13",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -108,7 +135,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder11",
+        "name": "dummyFormation14",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -117,7 +144,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder12",
+        "name": "dummyFormation15",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -126,7 +153,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder13",
+        "name": "dummyFormation16",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -135,7 +162,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder14",
+        "name": "dummyFormation17",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -144,7 +171,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder15",
+        "name": "dummyFormation18",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -153,7 +180,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder16",
+        "name": "dummyFormation19",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -162,34 +189,7 @@
         "pet": ""
     },
     {
-        "name": "placeholder17",
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
-    },
-    {
-        "name": "placeholder18",
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
-    },
-    {
-        "name": "placeholder19",
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
-    },
-    {
-        "name": "placeholder20",
+        "name": "dummyFormation20",
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
