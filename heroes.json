@@ -217,8 +217,8 @@
     "artifact": "Duras Chalice of Vitality"
   },
   {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rosaline.png",
     "name": "Rosaline",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rosaline.png",
     "tier": "Ascended",
     "faction": "Lightbearer",
     "type": "Intelligence",
@@ -232,8 +232,8 @@
     "artifact": "Duras Blade"
   },
   {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hendrik.png",
     "name": "Hendrik",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hendrik.png",
     "tier": "Ascended",
     "faction": "Lightbearer",
     "type": "Strength",
@@ -247,8 +247,8 @@
     "artifact": "Waistband of Resilience"
   },
   {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rowan.png",
     "name": "Rowan",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rowan.png",
     "tier": "Ascended",
     "faction": "Lightbearer",
     "type": "Intelligence",
@@ -267,8 +267,8 @@
 
 
   {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Elijah & Lailah.png",
     "name": "Elijah & Lailah",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Elijah & Lailah.png",
     "tier": "Ascended",
     "faction": "Celestial",
     "type": "Intelligence",
@@ -282,8 +282,8 @@
     "artifact": "Duras Call"
   },
   {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Talene.png",
     "name": "Talene",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Talene.png",
     "tier": "Ascended",
     "faction": "Celestial",
     "type": "Agility",
@@ -297,8 +297,8 @@
     "artifact": "Duras Blade"
   },
   {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ezizh.png",
     "name": "Ezizh",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ezizh.png",
     "tier": "Ascended",
     "faction": "Hypogean",
     "type": "Strength",
@@ -312,8 +312,8 @@
     "artifact": "Tidebearer"
   },
   {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Mehira.png",
     "name": "Mehira",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Mehira.png",
     "tier": "Ascended",
     "faction": "Hypogean",
     "type": "Intelligence",
@@ -327,8 +327,23 @@
     "artifact": "Windbinder"
   },
   {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png",
+    "name": "Hogan",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hogan.png",
+    "tier": "Legendary",
+    "faction": "Lightbearer",
+    "type": "Strength",
+    "class": "Tank",
+    "rating": "Bad",
+    "ascension_level": "Legendary+",
+    "amount_of_starts": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": null
+  },
+  {
     "name": "Dreaf",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png",
     "tier": "Common",
     "faction": "Wilder",
     "type": "Intelligence",
