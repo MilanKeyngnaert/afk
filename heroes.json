@@ -11,8 +11,7 @@
     "amount_of_stars": 5,
     "signature_item_level": 20,
     "amount_of_furniture": 9,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Duras Chalice of Vitality"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Belinda",
@@ -26,8 +25,7 @@
     "amount_of_stars": 0,
     "signature_item_level": 10,
     "amount_of_furniture": 0,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Duras Blade"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Raine",
@@ -41,8 +39,7 @@
     "amount_of_stars": 0,
     "signature_item_level": 20,
     "amount_of_furniture": 3,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Duras Eye"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Brutus",
@@ -56,8 +53,7 @@
     "amount_of_stars": 0,
     "signature_item_level": 20,
     "amount_of_furniture": 3,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "The Barricade"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Khasos",
@@ -71,8 +67,7 @@
     "amount_of_stars": 0,
     "signature_item_level": 0,
     "amount_of_furniture": 0,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Pauldron of Burning Fury"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Vurk",
@@ -86,8 +81,7 @@
     "amount_of_stars": 0,
     "signature_item_level": 0,
     "amount_of_furniture": 3,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Duras Confiction"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Nemora",
@@ -101,8 +95,7 @@
     "amount_of_stars": 0,
     "signature_item_level": 0,
     "amount_of_furniture": 9,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "The Oceanic Strings"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Kaz",
@@ -116,8 +109,7 @@
     "amount_of_stars": 0,
     "signature_item_level": 20,
     "amount_of_furniture": 0,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Duras Drape"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Lyca",
@@ -131,8 +123,7 @@
     "amount_of_stars": 0,
     "signature_item_level": 20,
     "amount_of_furniture": 9,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Shroud of Vendure"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Grezhul",
@@ -146,8 +137,7 @@
     "amount_of_stars": 5,
     "signature_item_level": 30,
     "amount_of_furniture": 9,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Duras Eye"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Shemira",
@@ -161,8 +151,7 @@
     "amount_of_stars": 0,
     "signature_item_level": 10,
     "amount_of_furniture": 0,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Warden of the Arcane"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Isabella",
@@ -176,8 +165,7 @@
     "amount_of_stars": 0,
     "signature_item_level": 10,
     "amount_of_furniture": 3,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Windbinder"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
 
 
