@@ -1,0 +1,306 @@
+[
+    {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Fawkes.png",
+        "name": "Fawkes",
+        "tier": "Ascended",
+        "faction": "Lightbearer",
+        "type": "Agility",
+        "class": "Ranger"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Cecilia.png",
+        "name": "Cecilia",
+        "tier": "Ascended",
+        "faction": "Lightbearer",
+        "type": "Agility",
+        "class": "Ranger"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ferael.png",
+        "name": "Ferael",
+        "tier": "Ascended",
+        "faction": "Graveborn",
+        "type": "Agility",
+        "class": "Ranger"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Athalia.png",
+        "name": "Athalia",
+        "tier": "Ascended",
+        "faction": "Celestial",
+        "type": "Agility",
+        "class": "Ranger"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Flora.png",
+        "name": "Flora",
+        "tier": "Ascended",
+        "faction": "Celestial",
+        "type": "Intelligence",
+        "class": "Mage"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Orthos.png",
+        "name": "Orthos",
+        "tier": "Ascended",
+        "faction": "Celestial",
+        "type": "Strength",
+        "class": "Tank"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Wu-kong.png",
+        "name": "Wu-kong",
+        "tier": "Ascended",
+        "faction": "Celestial",
+        "type": "Strength",
+        "class": "Warrior"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Khazard.png",
+        "name": "Khazard",
+        "tier": "Ascended",
+        "faction": "Hypogean",
+        "type": "Intelligence",
+        "class": "Mage"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Zolrath.png",
+        "name": "Zolrath",
+        "tier": "Ascended",
+        "faction": "Hypogean",
+        "type": "Agility",
+        "class": "Warrior"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Thoran.png",
+        "name": "Thoran",
+        "tier": "Ascended",
+        "faction": "Graveborn",
+        "type": "Strength",
+        "class": "Tank"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Nara.png",
+        "name": "Nara",
+        "tier": "Ascended",
+        "faction": "Graveborn",
+        "type": "Strength",
+        "class": "Warrior"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Silvina.png",
+        "name": "Silvina",
+        "tier": "Legendary",
+        "faction": "Graveborn",
+        "type": "Agility",
+        "class": "Ranger"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Seirus.png",
+        "name": "Seirus",
+        "tier": "Ascended",
+        "faction": "Wilder",
+        "type": "Strength",
+        "class": "Tank"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Skreg.png",
+        "name": "Skreg",
+        "tier": "Ascended",
+        "faction": "Mauler",
+        "type": "Strength",
+        "class": "Tank"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Tidus.png",
+        "name": "Tidus",
+        "tier": "Ascended",
+        "faction": "Mauler",
+        "type": "Agility",
+        "class": "Ranger"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Anoki.png",
+        "name": "Anoki",
+        "tier": "Ascended",
+        "faction": "Mauler",
+        "type": "Strength",
+        "class": "Tank"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Tasi.png",
+        "name": "Tasi",
+        "tier": "Ascended",
+        "faction": "Wilder",
+        "type": "Intelligence",
+        "class": "Support"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ulmus.png",
+        "name": "Ulmus",
+        "tier": "Ascended",
+        "faction": "Wilder",
+        "type": "Strength",
+        "class": "Tank"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Saurus.png",
+        "name": "Saurus",
+        "tier": "Ascended",
+        "faction": "Wilder",
+        "type": "Strength",
+        "class": "Warrior"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Gorvo.png",
+        "name": "Gorvo",
+        "tier": "Ascended",
+        "faction": "Wilder",
+        "type": "Strength",
+        "class": "Tank"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lorsan.png",
+        "name": "Lorsan",
+        "tier": "Ascended",
+        "faction": "Wilder",
+        "type": "Intelligence",
+        "class": "Mage"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Warek.png",
+        "name": "Warek",
+        "tier": "Ascended",
+        "faction": "Mauler",
+        "type": "Strength",
+        "class": "Warrior"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ankhira.png",
+        "name": "Ankhira",
+        "tier": "Legendary",
+        "faction": "Mauler",
+        "type": "Agility",
+        "class": "Ranger"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Drez.png",
+        "name": "Drez",
+        "tier": "Ascended",
+        "faction": "Mauler",
+        "type": "Agility",
+        "class": "Ranger"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Kren.png",
+        "name": "Kren",
+        "tier": "Ascended",
+        "faction": "Mauler",
+        "type": "Agility",
+        "class": "Ranger"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Safiya.png",
+        "name": "Safiya",
+        "tier": "Ascended",
+        "faction": "Mauler",
+        "type": "Intelligence",
+        "class": "Mage"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Vedan.png",
+        "name": "Vedan",
+        "tier": "Legendary",
+        "faction": "Graveborn",
+        "type": "Agility",
+        "class": "Warrior"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Gwyneth.png",
+        "name": "Gwyneth",
+        "tier": "Ascended",
+        "faction": "Lightbearer",
+        "type": "Agility",
+        "class": "Ranger"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hogan.png",
+        "name": "Hogan",
+        "tier": "Legendary",
+        "faction": "Lightbearer",
+        "type": "Strength",
+        "class": "Tank"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Izold.png",
+        "name": "Izold",
+        "tier": "Ascended",
+        "faction": "Graveborn",
+        "type": "Strength",
+        "class": "Warrior"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Thane.png",
+        "name": "Thane",
+        "tier": "Ascended",
+        "faction": "Lightbearer",
+        "type": "Agility",
+        "class": "Ranger"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rigby.png",
+        "name": "Rigby",
+        "tier": "Ascended",
+        "faction": "Lightbearer",
+        "type": "Strength",
+        "class": "Tank"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Numisu.png",
+        "name": "Numisu",
+        "tier": "Ascended",
+        "faction": "Mauler",
+        "type": "Intelligence",
+        "class": "Support"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png",
+        "name": "Dreaf",
+        "tier": "Common",
+        "faction": "Wilder",
+        "type": "Intelligence",
+        "class": "Support"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ainz.png",
+        "name": "Ainz",
+        "tier": "Ascended",
+        "faction": "Dimensional",
+        "type": "Intelligence",
+        "class": "Mage"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Albedo.png",
+        "name": "Albedo",
+        "tier": "Ascended",
+        "faction": "Dimensional",
+        "type": "Strength",
+        "class": "Tank"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rem.png",
+        "name": "Rem",
+        "tier": "Ascended",
+        "faction": "Dimensional",
+        "type": "Strength",
+        "class": "Warrior"
+      },
+      {
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Emilia.png",
+        "name": "Emilia",
+        "tier": "Ascended",
+        "faction": "Dimensional",
+        "type": "Intelligence",
+        "class": "Mage"
+      }
+]

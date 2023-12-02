@@ -1,19 +1,220 @@
 [
   {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lucius.png",
-    "name": "Lucius",
+    "name": "Estrilda",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Estrilda.png",
     "tier": "Ascended",
     "faction": "Lightbearer",
     "type": "Strength",
-    "class": "Tank"
+    "class": "Warrior",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 5,
+    "signature_item_level": 20,
+    "amount_of_furniture": 9,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Duras Chalice of Vitality"
   },
   {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Belinda.png",
     "name": "Belinda",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Belinda.png",
     "tier": "Ascended",
     "faction": "Lightbearer",
     "type": "Intelligence",
-    "class": "Mage"
+    "class": "Mage",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 0,
+    "signature_item_level": 10,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Duras Blade"
+  },
+  {
+    "name": "Raine",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Raine.png",
+    "tier": "Ascended",
+    "faction": "Lightbearer",
+    "type": "Agility",
+    "class": "Support",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 0,
+    "signature_item_level": 20,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Duras Eye"
+  },
+  {
+    "name": "Brutus",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Brutus.png",
+    "tier": "Ascended",
+    "faction": "Mauler",
+    "type": "Strength",
+    "class": "Tank",
+    "rating": "Average",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 0,
+    "signature_item_level": 20,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "The Barricade"
+  },
+  {
+    "name": "Khasos",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Khasos.png",
+    "tier": "Ascended",
+    "faction": "Mauler",
+    "type": "Strength",
+    "class": "Warrior",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 0,
+    "signature_item_level": 0,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Pauldron of Burning Fury"
+  },
+  {
+    "name": "Vurk",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Vurk.png",
+    "tier": "Ascended",
+    "faction": "Mauler",
+    "type": "Agility",
+    "class": "Ranger",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 0,
+    "signature_item_level": 0,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Duras Confiction"
+  },
+  {
+    "name": "Nemora",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Nemora.png",
+    "tier": "Ascended",
+    "faction": "Wilder",
+    "type": "Intelligence",
+    "class": "Support",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 0,
+    "signature_item_level": 0,
+    "amount_of_furniture": 9,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "The Oceanic Strings"
+  },
+  {
+    "name": "Kaz",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Kaz.png",
+    "tier": "Ascended",
+    "faction": "Wilder",
+    "type": "Agility",
+    "class": "Ranger",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 0,
+    "signature_item_level": 20,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Duras Drape"
+  },
+  {
+    "name": "Lyca",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lyca.png",
+    "tier": "Ascended",
+    "faction": "Wilder",
+    "type": "Agility",
+    "class": "Ranger",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 0,
+    "signature_item_level": 20,
+    "amount_of_furniture": 9,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Shroud of Vendure"
+  },
+  {
+    "name": "Grezhul",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Grezhul.png",
+    "tier": "Ascended",
+    "faction": "Graveborn",
+    "type": "Strength",
+    "class": "Tank",
+    "rating": "Great",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 5,
+    "signature_item_level": 30,
+    "amount_of_furniture": 9,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Duras Eye"
+  },
+  {
+    "name": "Shemira",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Shemira.png",
+    "tier": "Ascended",
+    "faction": "Graveborn",
+    "type": "Intelligence",
+    "class": "Mage",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 0,
+    "signature_item_level": 10,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Warden of the Arcane"
+  },
+  {
+    "name": "Isabella",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Isabella.png",
+    "tier": "Ascended",
+    "faction": "Graveborn",
+    "type": "Intelligence",
+    "class": "Mage",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 0,
+    "signature_item_level": 10,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Windbinder"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Lucius",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lucius.png",
+    "tier": "Ascended",
+    "faction": "Lightbearer",
+    "type": "Strength",
+    "class": "Tank",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 0,
+    "signature_item_level": 10,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Duras Chalice of Vitality"
   },
   {
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rosaline.png",
@@ -21,7 +222,14 @@
     "tier": "Ascended",
     "faction": "Lightbearer",
     "type": "Intelligence",
-    "class": "Support"
+    "class": "Support",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 5,
+    "signature_item_level": 30,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Duras Blade"
   },
   {
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hendrik.png",
@@ -29,7 +237,14 @@
     "tier": "Ascended",
     "faction": "Lightbearer",
     "type": "Strength",
-    "class": "Tank"
+    "class": "Tank",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 0,
+    "signature_item_level": 10,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Waistband of Resilience"
   },
   {
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rowan.png",
@@ -37,63 +252,34 @@
     "tier": "Ascended",
     "faction": "Lightbearer",
     "type": "Intelligence",
-    "class": "Support"
+    "class": "Support",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 0,
+    "signature_item_level": 30,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Tidebearer"
   },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Fawkes.png",
-    "name": "Fawkes",
-    "tier": "Ascended",
-    "faction": "Lightbearer",
-    "type": "Agility",
-    "class": "Ranger"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Cecilia.png",
-    "name": "Cecilia",
-    "tier": "Ascended",
-    "faction": "Lightbearer",
-    "type": "Agility",
-    "class": "Ranger"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ferael.png",
-    "name": "Ferael",
-    "tier": "Ascended",
-    "faction": "Graveborn",
-    "type": "Agility",
-    "class": "Ranger"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Athalia.png",
-    "name": "Athalia",
-    "tier": "Ascended",
-    "faction": "Celestial",
-    "type": "Agility",
-    "class": "Ranger"
-  },
+
+
+
+
+
   {
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Elijah & Lailah.png",
     "name": "Elijah & Lailah",
     "tier": "Ascended",
     "faction": "Celestial",
     "type": "Intelligence",
-    "class": "Support"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Flora.png",
-    "name": "Flora",
-    "tier": "Ascended",
-    "faction": "Celestial",
-    "type": "Intelligence",
-    "class": "Mage"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Orthos.png",
-    "name": "Orthos",
-    "tier": "Ascended",
-    "faction": "Celestial",
-    "type": "Strength",
-    "class": "Tank"
+    "class": "Support",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 1,
+    "signature_item_level": 20,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Duras Call"
   },
   {
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Talene.png",
@@ -101,15 +287,14 @@
     "tier": "Ascended",
     "faction": "Celestial",
     "type": "Agility",
-    "class": "Support"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Wu-kong.png",
-    "name": "Wu-kong",
-    "tier": "Ascended",
-    "faction": "Celestial",
-    "type": "Strength",
-    "class": "Warrior"
+    "class": "Support",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 0,
+    "signature_item_level": 30,
+    "amount_of_furniture": 9,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Duras Blade"
   },
   {
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ezizh.png",
@@ -117,15 +302,14 @@
     "tier": "Ascended",
     "faction": "Hypogean",
     "type": "Strength",
-    "class": "Support"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Khazard.png",
-    "name": "Khazard",
-    "tier": "Ascended",
-    "faction": "Hypogean",
-    "type": "Intelligence",
-    "class": "Mage"
+    "class": "Support",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_starts": 0,
+    "signature_item_level": 20,
+    "amount_of_furniture": 9,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Tidebearer"
   },
   {
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Mehira.png",
@@ -133,310 +317,13 @@
     "tier": "Ascended",
     "faction": "Hypogean",
     "type": "Intelligence",
-    "class": "Mage"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Zolrath.png",
-    "name": "Zolrath",
-    "tier": "Ascended",
-    "faction": "Hypogean",
-    "type": "Agility",
-    "class": "Warrior"
-  },
-
-
-
-
-
-
-
-
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Grezhul.png",
-    "name": "Grezhul",
-    "tier": "Ascended",
-    "faction": "Graveborn",
-    "type": "Strength",
-    "class": "Tank"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Isabella.png",
-    "name": "Isabella",
-    "tier": "Ascended",
-    "faction": "Graveborn",
-    "type": "Intelligence",
-    "class": "Mage"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Shemira.png",
-    "name": "Shemira",
-    "tier": "Ascended",
-    "faction": "Graveborn",
-    "type": "Intelligence",
-    "class": "Mage"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Thoran.png",
-    "name": "Thoran",
-    "tier": "Ascended",
-    "faction": "Graveborn",
-    "type": "Strength",
-    "class": "Tank"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Nara.png",
-    "name": "Nara",
-    "tier": "Ascended",
-    "faction": "Graveborn",
-    "type": "Strength",
-    "class": "Warrior"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Silvina.png",
-    "name": "Silvina",
-    "tier": "Legendary",
-    "faction": "Graveborn",
-    "type": "Agility",
-    "class": "Ranger"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Seirus.png",
-    "name": "Seirus",
-    "tier": "Ascended",
-    "faction": "Wilder",
-    "type": "Strength",
-    "class": "Tank"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Skreg.png",
-    "name": "Skreg",
-    "tier": "Ascended",
-    "faction": "Mauler",
-    "type": "Strength",
-    "class": "Tank"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Tidus.png",
-    "name": "Tidus",
-    "tier": "Ascended",
-    "faction": "Mauler",
-    "type": "Agility",
-    "class": "Ranger"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Anoki.png",
-    "name": "Anoki",
-    "tier": "Ascended",
-    "faction": "Mauler",
-    "type": "Strength",
-    "class": "Tank"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Nemora.png",
-    "name": "Nemora",
-    "tier": "Ascended",
-    "faction": "Wilder",
-    "type": "Intelligence",
-    "class": "Support"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Tasi.png",
-    "name": "Tasi",
-    "tier": "Ascended",
-    "faction": "Wilder",
-    "type": "Intelligence",
-    "class": "Support"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lyca.png",
-    "name": "Lyca",
-    "tier": "Ascended",
-    "faction": "Wilder",
-    "type": "Agility",
-    "class": "Ranger"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ulmus.png",
-    "name": "Ulmus",
-    "tier": "Ascended",
-    "faction": "Wilder",
-    "type": "Strength",
-    "class": "Tank"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Saurus.png",
-    "name": "Saurus",
-    "tier": "Ascended",
-    "faction": "Wilder",
-    "type": "Strength",
-    "class": "Warrior"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Gorvo.png",
-    "name": "Gorvo",
-    "tier": "Ascended",
-    "faction": "Wilder",
-    "type": "Strength",
-    "class": "Tank"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lorsan.png",
-    "name": "Lorsan",
-    "tier": "Ascended",
-    "faction": "Wilder",
-    "type": "Intelligence",
-    "class": "Mage"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Kaz.png",
-    "name": "Kaz",
-    "tier": "Ascended",
-    "faction": "Wilder",
-    "type": "Agility",
-    "class": "Ranger"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Vurk.png",
-    "name": "Vurk",
-    "tier": "Ascended",
-    "faction": "Mauler",
-    "type": "Agility",
-    "class": "Ranger"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Warek.png",
-    "name": "Warek",
-    "tier": "Ascended",
-    "faction": "Mauler",
-    "type": "Strength",
-    "class": "Warrior"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ankhira.png",
-    "name": "Ankhira",
-    "tier": "Legendary",
-    "faction": "Mauler",
-    "type": "Agility",
-    "class": "Ranger"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Drez.png",
-    "name": "Drez",
-    "tier": "Ascended",
-    "faction": "Mauler",
-    "type": "Agility",
-    "class": "Ranger"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Kren.png",
-    "name": "Kren",
-    "tier": "Ascended",
-    "faction": "Mauler",
-    "type": "Agility",
-    "class": "Ranger"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Safiya.png",
-    "name": "Safiya",
-    "tier": "Ascended",
-    "faction": "Mauler",
-    "type": "Intelligence",
-    "class": "Mage"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Vedan.png",
-    "name": "Vedan",
-    "tier": "Legendary",
-    "faction": "Graveborn",
-    "type": "Agility",
-    "class": "Warrior"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Gwyneth.png",
-    "name": "Gwyneth",
-    "tier": "Ascended",
-    "faction": "Lightbearer",
-    "type": "Agility",
-    "class": "Ranger"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hogan.png",
-    "name": "Hogan",
-    "tier": "Legendary",
-    "faction": "Lightbearer",
-    "type": "Strength",
-    "class": "Tank"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Izold.png",
-    "name": "Izold",
-    "tier": "Ascended",
-    "faction": "Graveborn",
-    "type": "Strength",
-    "class": "Warrior"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Thane.png",
-    "name": "Thane",
-    "tier": "Ascended",
-    "faction": "Lightbearer",
-    "type": "Agility",
-    "class": "Ranger"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rigby.png",
-    "name": "Rigby",
-    "tier": "Ascended",
-    "faction": "Lightbearer",
-    "type": "Strength",
-    "class": "Tank"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Numisu.png",
-    "name": "Numisu",
-    "tier": "Ascended",
-    "faction": "Mauler",
-    "type": "Intelligence",
-    "class": "Support"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png",
-    "name": "Dreaf",
-    "tier": "Common",
-    "faction": "Wilder",
-    "type": "Intelligence",
-    "class": "Support"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ainz.png",
-    "name": "Ainz",
-    "tier": "Ascended",
-    "faction": "Dimensional",
-    "type": "Intelligence",
-    "class": "Mage"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Albedo.png",
-    "name": "Albedo",
-    "tier": "Ascended",
-    "faction": "Dimensional",
-    "type": "Strength",
-    "class": "Tank"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rem.png",
-    "name": "Rem",
-    "tier": "Ascended",
-    "faction": "Dimensional",
-    "type": "Strength",
-    "class": "Warrior"
-  },
-  {
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Emilia.png",
-    "name": "Emilia",
-    "tier": "Ascended",
-    "faction": "Dimensional",
-    "type": "Intelligence",
-    "class": "Mage"
+    "class": "Mage",
+    "rating": "Good",
+    "ascension_level": "Mythic",
+    "amount_of_starts": 0,
+    "signature_item_level": 30,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": "Windbinder"
   }
 ]
