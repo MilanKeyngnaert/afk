@@ -1,25 +1,18 @@
-{
-    "name": "Lucius",
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lucius.png",
-    "tier": "Ascended",
-    "faction": "Lightbearer",
-    "type": "Strength",
-    "class": "Tank",
-    "optimal_investment": {
-        "ascension_levels": "Ascended",
-        "amount_of_starts": 5,
-        "signature_item_level": 30,
-        "amount_of_furniture": 9,
-        "engraving": {
-            "HP-MR": 0,
-            "DEF-MR": 0,
-            "ATK-HEAL": 0,
-            "CBR-HASTE": 0,
-            "HASTE-PP": 0,
-            "ACC-TY": 0,
-            "RH-CDR": 0,
-            "TY-DODGE": 0
-        },
-        "artifact": "Dura's Chalice of Vitality"
+[
+    {
+        "name": "Estrilda",
+        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Estrilda.png",
+        "tier": "Ascended",
+        "faction": "Lightbearer",
+        "type": "Strength",
+        "class": "Warrior",
+        "optimal_investment": {
+            "ascension_levels": "Ascended",
+            "amount_of_starts": 5,
+            "signature_item_level": 30,
+            "amount_of_furniture": 9,
+            "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+            "artifact": "Dura's Chalice of Vitality"
+        }
     }
-}
+]
