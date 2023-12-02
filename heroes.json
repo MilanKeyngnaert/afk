@@ -325,5 +325,20 @@
     "amount_of_furniture": 0,
     "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
     "artifact": "Windbinder"
+  },
+  {
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png",
+    "name": "Dreaf",
+    "tier": "Common",
+    "faction": "Wilder",
+    "type": "Intelligence",
+    "class": "Support",
+    "rating": "Bad",
+    "ascension_level": "Common",
+    "amount_of_starts": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
+    "artifact": null
   }
 ]
