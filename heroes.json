@@ -167,28 +167,90 @@
     "amount_of_furniture": 3,
     "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  {
+    "name": "Numisu",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Numisu.png",
+    "tier": "Ascended",
+    "faction": "Mauler",
+    "type": "Intelligence",
+    "class": "Support",
+    "rating": "Average",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 20,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Ferael",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ferael.png",
+    "tier": "Ascended",
+    "faction": "Graveborn",
+    "type": "Agility",
+    "class": "Ranger",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 30,
+    "amount_of_furniture": 9,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Warek",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Warek.png",
+    "tier": "Ascended",
+    "faction": "Mauler",
+    "type": "Strength",
+    "class": "Warrior",
+    "rating": "Average",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 20,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Ulmus",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ulmus.png",
+    "tier": "Ascended",
+    "faction": "Wilder",
+    "type": "Strength",
+    "class": "Tank",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 0,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Tasi",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Tasi.png",
+    "tier": "Ascended",
+    "faction": "Wilder",
+    "type": "Intelligence",
+    "class": "Support",
+    "rating": "Average",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 10,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Thoran",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Thoran.png",
+    "tier": "Ascended",
+    "faction": "Graveborn",
+    "type": "Strength",
+    "class": "Tank",
+    "rating": "Average",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 30,
+    "amount_of_furniture": 9,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
   {
     "name": "Lucius",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lucius.png",
@@ -201,9 +263,44 @@
     "amount_of_stars": 0,
     "signature_item_level": 10,
     "amount_of_furniture": 0,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Duras Chalice of Vitality"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
+  {
+    "name": "Thane",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Thane.png",
+    "tier": "Ascended",
+    "faction": "Lightbearer",
+    "type": "Agility",
+    "class": "Ranger",
+    "rating": "Average",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 20,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   {
     "name": "Rosaline",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rosaline.png",
@@ -216,8 +313,7 @@
     "amount_of_stars": 5,
     "signature_item_level": 30,
     "amount_of_furniture": 3,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Duras Blade"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Hendrik",
@@ -231,8 +327,7 @@
     "amount_of_stars": 0,
     "signature_item_level": 10,
     "amount_of_furniture": 0,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Waistband of Resilience"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Rowan",
@@ -246,8 +341,7 @@
     "amount_of_stars": 0,
     "signature_item_level": 30,
     "amount_of_furniture": 0,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Tidebearer"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
 
 
@@ -266,8 +360,7 @@
     "amount_of_stars": 1,
     "signature_item_level": 20,
     "amount_of_furniture": 3,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Duras Call"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Talene",
@@ -281,8 +374,7 @@
     "amount_of_stars": 0,
     "signature_item_level": 30,
     "amount_of_furniture": 9,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Duras Blade"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Ezizh",
@@ -296,8 +388,7 @@
     "amount_of_stars": 0,
     "signature_item_level": 20,
     "amount_of_furniture": 9,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Tidebearer"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Mehira",
@@ -311,8 +402,7 @@
     "amount_of_stars": 0,
     "signature_item_level": 30,
     "amount_of_furniture": 0,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": "Windbinder"
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Hogan",
@@ -326,8 +416,7 @@
     "amount_of_stars": null,
     "signature_item_level": null,
     "amount_of_furniture": null,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": null
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
     "name": "Dreaf",
@@ -341,7 +430,6 @@
     "amount_of_stars": null,
     "signature_item_level": null,
     "amount_of_furniture": null,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0],
-    "artifact": null
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   }
 ]

@@ -16,14 +16,6 @@
         "class": "Ranger"
       },
       {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ferael.png",
-        "name": "Ferael",
-        "tier": "Ascended",
-        "faction": "Graveborn",
-        "type": "Agility",
-        "class": "Ranger"
-      },
-      {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Athalia.png",
         "name": "Athalia",
         "tier": "Ascended",
@@ -70,14 +62,6 @@
         "faction": "Hypogean",
         "type": "Agility",
         "class": "Warrior"
-      },
-      {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Thoran.png",
-        "name": "Thoran",
-        "tier": "Ascended",
-        "faction": "Graveborn",
-        "type": "Strength",
-        "class": "Tank"
       },
       {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Nara.png",
@@ -128,22 +112,6 @@
         "class": "Tank"
       },
       {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Tasi.png",
-        "name": "Tasi",
-        "tier": "Ascended",
-        "faction": "Wilder",
-        "type": "Intelligence",
-        "class": "Support"
-      },
-      {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ulmus.png",
-        "name": "Ulmus",
-        "tier": "Ascended",
-        "faction": "Wilder",
-        "type": "Strength",
-        "class": "Tank"
-      },
-      {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Saurus.png",
         "name": "Saurus",
         "tier": "Ascended",
@@ -166,14 +134,6 @@
         "faction": "Wilder",
         "type": "Intelligence",
         "class": "Mage"
-      },
-      {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Warek.png",
-        "name": "Warek",
-        "tier": "Ascended",
-        "faction": "Mauler",
-        "type": "Strength",
-        "class": "Warrior"
       },
       {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ankhira.png",
@@ -240,28 +200,12 @@
         "class": "Warrior"
       },
       {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Thane.png",
-        "name": "Thane",
-        "tier": "Ascended",
-        "faction": "Lightbearer",
-        "type": "Agility",
-        "class": "Ranger"
-      },
-      {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rigby.png",
         "name": "Rigby",
         "tier": "Ascended",
         "faction": "Lightbearer",
         "type": "Strength",
         "class": "Tank"
-      },
-      {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Numisu.png",
-        "name": "Numisu",
-        "tier": "Ascended",
-        "faction": "Mauler",
-        "type": "Intelligence",
-        "class": "Support"
       },
       {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ainz.png",
