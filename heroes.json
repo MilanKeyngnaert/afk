@@ -377,6 +377,34 @@
     "amount_of_furniture": 3,
     "engraving": [5, 5, 5, 3, 3, 3, 3, 3]
   },
+  {
+    "name": "Nara",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Nara.png",
+    "tier": "Ascended",
+    "faction": "Graveborn",
+    "type": "Strength",
+    "class": "Warrior",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 10,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Baden",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Baden.png",
+    "tier": "Ascended",
+    "faction": "Graveborn",
+    "type": "Agility",
+    "class": "Warrior",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 10,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
 
 
 

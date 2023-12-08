@@ -48,14 +48,6 @@
         "class": "Warrior"
       },
       {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Nara.png",
-        "name": "Nara",
-        "tier": "Ascended",
-        "faction": "Graveborn",
-        "type": "Strength",
-        "class": "Warrior"
-      },
-      {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Silvina.png",
         "name": "Silvina",
         "tier": "Legendary",
