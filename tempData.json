@@ -1,25 +1,9 @@
 [
-    {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Fawkes.png",
-        "name": "Fawkes",
-        "tier": "Ascended",
-        "faction": "Lightbearer",
-        "type": "Agility",
-        "class": "Ranger"
-      },
       {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Cecilia.png",
         "name": "Cecilia",
         "tier": "Ascended",
         "faction": "Lightbearer",
-        "type": "Agility",
-        "class": "Ranger"
-      },
-      {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Athalia.png",
-        "name": "Athalia",
-        "tier": "Ascended",
-        "faction": "Celestial",
         "type": "Agility",
         "class": "Ranger"
       },
@@ -78,22 +62,6 @@
         "faction": "Graveborn",
         "type": "Agility",
         "class": "Ranger"
-      },
-      {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Seirus.png",
-        "name": "Seirus",
-        "tier": "Ascended",
-        "faction": "Wilder",
-        "type": "Strength",
-        "class": "Tank"
-      },
-      {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Skreg.png",
-        "name": "Skreg",
-        "tier": "Ascended",
-        "faction": "Mauler",
-        "type": "Strength",
-        "class": "Tank"
       },
       {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Tidus.png",
@@ -158,14 +126,6 @@
         "faction": "Mauler",
         "type": "Agility",
         "class": "Ranger"
-      },
-      {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Safiya.png",
-        "name": "Safiya",
-        "tier": "Ascended",
-        "faction": "Mauler",
-        "type": "Intelligence",
-        "class": "Mage"
       },
       {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Vedan.png",

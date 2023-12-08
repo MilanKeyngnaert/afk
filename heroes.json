@@ -137,7 +137,7 @@
     "amount_of_stars": 5,
     "signature_item_level": 30,
     "amount_of_furniture": 9,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+    "engraving": [10, 10, 10, 6, 6, 6, 6, 6]
   },
   {
     "name": "Shemira",
@@ -279,6 +279,104 @@
     "amount_of_furniture": 3,
     "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
+  {
+    "name": "Skreg",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Skreg.png",
+    "tier": "Ascended",
+    "faction": "Mauler",
+    "type": "Strength",
+    "class": "Tank",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 20,
+    "amount_of_furniture": 9,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Seirus",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Seirus.png",
+    "tier": "Ascended",
+    "faction": "Wilder",
+    "type": "Strength",
+    "class": "Tank",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 0,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Athalia",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Athalia.png",
+    "tier": "Ascended",
+    "faction": "Celestial",
+    "type": "Agility",
+    "class": "Ranger",
+    "rating": "Average",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 30,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Fawkes",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Fawkes.png",
+    "tier": "Ascended",
+    "faction": "Lightbearer",
+    "type": "Agility",
+    "class": "Ranger",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 10,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Ezizh",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ezizh.png",
+    "tier": "Ascended",
+    "faction": "Hypogean",
+    "type": "Strength",
+    "class": "Support",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 20,
+    "amount_of_furniture": 9,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Safiya",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Safiya.png",
+    "tier": "Ascended",
+    "faction": "Mauler",
+    "type": "Intelligence",
+    "class": "Mage",
+    "rating": "Average",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 20,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Eironn",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Eironn.png",
+    "tier": "Ascended",
+    "faction": "Wilder",
+    "type": "Agility",
+    "class": "Ranger",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 3,
+    "signature_item_level": 30,
+    "amount_of_furniture": 3,
+    "engraving": [5, 5, 5, 3, 3, 3, 3, 3]
+  },
 
 
 
@@ -373,20 +471,6 @@
     "ascension_level": "Ascended",
     "amount_of_stars": 0,
     "signature_item_level": 30,
-    "amount_of_furniture": 9,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
-  },
-  {
-    "name": "Ezizh",
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ezizh.png",
-    "tier": "Ascended",
-    "faction": "Hypogean",
-    "type": "Strength",
-    "class": "Support",
-    "rating": "Good",
-    "ascension_level": "Ascended",
-    "amount_of_stars": 0,
-    "signature_item_level": 20,
     "amount_of_furniture": 9,
     "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
