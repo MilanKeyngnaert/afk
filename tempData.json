@@ -80,14 +80,6 @@
         "class": "Warrior"
       },
       {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Gorvo.png",
-        "name": "Gorvo",
-        "tier": "Ascended",
-        "faction": "Wilder",
-        "type": "Strength",
-        "class": "Tank"
-      },
-      {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lorsan.png",
         "name": "Lorsan",
         "tier": "Ascended",

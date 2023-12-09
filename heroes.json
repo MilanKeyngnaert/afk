@@ -405,6 +405,76 @@
     "amount_of_furniture": 0,
     "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
+  {
+    "name": "Hendrik",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hendrik.png",
+    "tier": "Ascended",
+    "faction": "Lightbearer",
+    "type": "Strength",
+    "class": "Tank",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 10,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Kelthur",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Kelthur.png",
+    "tier": "Ascended",
+    "faction": "Graveborn",
+    "type": "Agility",
+    "class": "Ranger",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 10,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Mehira",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Mehira.png",
+    "tier": "Ascended",
+    "faction": "Hypogean",
+    "type": "Intelligence",
+    "class": "Mage",
+    "rating": "Good",
+    "ascension_level": "Mythic",
+    "amount_of_stars": 0,
+    "signature_item_level": 30,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Gorvo",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Gorvo.png",
+    "tier": "Ascended",
+    "faction": "Wilder",
+    "type": "Strength",
+    "class": "Tank",
+    "rating": "Average",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 20,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Rowan",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rowan.png",
+    "tier": "Ascended",
+    "faction": "Lightbearer",
+    "type": "Intelligence",
+    "class": "Support",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 30,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
 
 
 
@@ -441,38 +511,6 @@
     "amount_of_furniture": 3,
     "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
-  {
-    "name": "Hendrik",
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hendrik.png",
-    "tier": "Ascended",
-    "faction": "Lightbearer",
-    "type": "Strength",
-    "class": "Tank",
-    "rating": "Good",
-    "ascension_level": "Ascended",
-    "amount_of_stars": 0,
-    "signature_item_level": 10,
-    "amount_of_furniture": 0,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
-  },
-  {
-    "name": "Rowan",
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rowan.png",
-    "tier": "Ascended",
-    "faction": "Lightbearer",
-    "type": "Intelligence",
-    "class": "Support",
-    "rating": "Good",
-    "ascension_level": "Ascended",
-    "amount_of_stars": 0,
-    "signature_item_level": 30,
-    "amount_of_furniture": 0,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
-  },
-
-
-
-
 
   {
     "name": "Elijah & Lailah",
@@ -500,20 +538,6 @@
     "amount_of_stars": 0,
     "signature_item_level": 30,
     "amount_of_furniture": 9,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
-  },
-  {
-    "name": "Mehira",
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Mehira.png",
-    "tier": "Ascended",
-    "faction": "Hypogean",
-    "type": "Intelligence",
-    "class": "Mage",
-    "rating": "Good",
-    "ascension_level": "Mythic",
-    "amount_of_stars": 0,
-    "signature_item_level": 30,
-    "amount_of_furniture": 0,
     "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
   {
