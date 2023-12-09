@@ -475,7 +475,90 @@
     "amount_of_furniture": 0,
     "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
-
+  {
+    "name": "Elijah & Lailah",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Elijah & Lailah.png",
+    "tier": "Ascended",
+    "faction": "Celestial",
+    "type": "Intelligence",
+    "class": "Support",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 1,
+    "signature_item_level": 20,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Rosaline",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rosaline.png",
+    "tier": "Ascended",
+    "faction": "Lightbearer",
+    "type": "Intelligence",
+    "class": "Support",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 5,
+    "signature_item_level": 30,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Antandra",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Antandra.png",
+    "tier": "Ascended",
+    "faction": "Mauler",
+    "type": "Strength",
+    "class": "Warrior",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 3,
+    "signature_item_level": 30,
+    "amount_of_furniture": 9,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Satrana",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Satrana.png",
+    "tier": "Ascended",
+    "faction": "Mauler",
+    "type": "Intelligence",
+    "class": "Mage",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 20,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Zolrath",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Zolrath.png",
+    "tier": "Ascended",
+    "faction": "Hypogean",
+    "type": "Agility",
+    "class": "Warrior",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 3,
+    "signature_item_level": 30,
+    "amount_of_furniture": 9,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "name": "Gwyneth",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Zolrath.png",
+    "tier": "Ascended",
+    "faction": "Lightbearer",
+    "type": "Strength",
+    "class": "Ranger",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 10,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
 
 
 
@@ -497,35 +580,9 @@
 
 
   
-  {
-    "name": "Rosaline",
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rosaline.png",
-    "tier": "Ascended",
-    "faction": "Lightbearer",
-    "type": "Intelligence",
-    "class": "Support",
-    "rating": "Good",
-    "ascension_level": "Ascended",
-    "amount_of_stars": 5,
-    "signature_item_level": 30,
-    "amount_of_furniture": 3,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
-  },
+  
 
-  {
-    "name": "Elijah & Lailah",
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Elijah & Lailah.png",
-    "tier": "Ascended",
-    "faction": "Celestial",
-    "type": "Intelligence",
-    "class": "Support",
-    "rating": "Good",
-    "ascension_level": "Ascended",
-    "amount_of_stars": 1,
-    "signature_item_level": 20,
-    "amount_of_furniture": 3,
-    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
-  },
+  
   {
     "name": "Talene",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Talene.png",

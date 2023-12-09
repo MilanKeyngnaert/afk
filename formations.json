@@ -1,6 +1,8 @@
 [
     {
+        "id": 1,
         "name": "First original comp",
+        "gamemodes": ["Campaign", "PvP", "Labyrinth"],
         "1": "Hendrik",
         "2": "Lucius",
         "3": "Belinda",
@@ -9,7 +11,9 @@
         "pet": "Dreary Ball"
     },
     {
+        "id": 2,
         "name": "God comp",
+        "gamemodes": ["Campaign", "PvP", "Treasure_Scramble", "Treasure_Vanguard"],
         "1": "Rowan",
         "2": "Talene",
         "3": "Elijah & Lailah",
@@ -18,7 +22,9 @@
         "pet": "Slumber Seal"
     },
     {
+        "id": 3,
         "name": "dummyFormation1",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "",
         "3": "Dreaf",
@@ -27,7 +33,9 @@
         "pet": ""
     },
     {
+        "id": 4,
         "name": "dummyFormation2",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -36,7 +44,9 @@
         "pet": ""
     },
     {
+        "id": 5,
         "name": "dummyFormation3",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -45,7 +55,9 @@
         "pet": ""
     },
     {
+        "id": 6,
         "name": "dummyFormation4",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -54,7 +66,9 @@
         "pet": ""
     },
     {
+        "id": 7,
         "name": "dummyFormation5",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -63,7 +77,9 @@
         "pet": ""
     },
     {
+        "id": 8,
         "name": "dummyFormation6",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -72,7 +88,9 @@
         "pet": ""
     },
     {
+        "id": 9,
         "name": "dummyFormation7",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "",
         "3": "",
@@ -81,16 +99,20 @@
         "pet": ""
     },
     {
+        "id": 10,
         "name": "dummyFormation8",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
         "4": "Dreaf",
         "5": "Dreaf",
-        "pet": ""
+        "pet": "Blade Ridge"
     },
     {
+        "id": 11,
         "name": "dummyFormation9",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -99,7 +121,9 @@
         "pet": ""
     },
     {
+        "id": 12,
         "name": "dummyFormation10",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -108,16 +132,20 @@
         "pet": ""
     },
     {
+        "id": 13,
         "name": "dummyFormation11",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
         "4": "Dreaf",
         "5": "Dreaf",
-        "pet": ""
+        "pet": "Shroom Spooder"
     },
     {
+        "id": 14,
         "name": "dummyFormation12",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -126,7 +154,9 @@
         "pet": ""
     },
     {
+        "id": 15,
         "name": "dummyFormation13",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -135,7 +165,9 @@
         "pet": ""
     },
     {
+        "id": 16,
         "name": "dummyFormation14",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -144,7 +176,9 @@
         "pet": ""
     },
     {
+        "id": 17,
         "name": "dummyFormation15",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -153,7 +187,9 @@
         "pet": ""
     },
     {
+        "id": 18,
         "name": "dummyFormation16",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -162,7 +198,9 @@
         "pet": ""
     },
     {
+        "id": 19,
         "name": "dummyFormation17",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -171,7 +209,9 @@
         "pet": ""
     },
     {
+        "id": 20,
         "name": "dummyFormation18",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -180,7 +220,9 @@
         "pet": ""
     },
     {
+        "id": 21,
         "name": "dummyFormation19",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
@@ -189,7 +231,9 @@
         "pet": ""
     },
     {
+        "id": 22,
         "name": "dummyFormation20",
+        "gamemodes": ["Campaign", "Labyrinth"],
         "1": "Dreaf",
         "2": "Dreaf",
         "3": "Dreaf",
