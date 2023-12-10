@@ -40,14 +40,6 @@
         "class": "Ranger"
       },
       {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Tidus.png",
-        "name": "Tidus",
-        "tier": "Ascended",
-        "faction": "Mauler",
-        "type": "Agility",
-        "class": "Ranger"
-      },
-      {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Anoki.png",
         "name": "Anoki",
         "tier": "Ascended",
@@ -93,14 +85,6 @@
         "tier": "Legendary",
         "faction": "Graveborn",
         "type": "Agility",
-        "class": "Warrior"
-      },
-      {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Izold.png",
-        "name": "Izold",
-        "tier": "Ascended",
-        "faction": "Graveborn",
-        "type": "Strength",
         "class": "Warrior"
       },
       {
