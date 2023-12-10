@@ -1,107 +1,125 @@
 [
   {
+    "id": 18,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Radish Rotunda.png",
     "name": "Radish Rotunda",
     "role": "Heals and shields allies, buffs short burst attack of allies",
     "rating": "Average"
   },
   {
+    "id": 17,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Shroom Spooder.png",
     "name": "Shroom Spooder",
     "role": "Creates debuff zone, debuffs enemies, grants damage risistance to allies",
     "rating": "Great"
   },
   {
+    "id": 16,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Fox Fatale.png",
     "name": "Fox Fatale",
     "role": "Charms enemies, weakens enemy carry",
     "rating": "Great"
   },
   {
+    "id": 15,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Slumber Seal.png",
     "name": "Slumber Seal",
     "role": "Deals great damage to enemies, grants light crowd control to allies",
     "rating": "Great"
   },
   {
+    "id": 14,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Savage Soufflé.png",
     "name": "Savage Soufflé",
     "role": "Grants energy to allies, controls enemies",
     "rating": "Great"
   },
   {
+    "id": 13,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Phantasmoth.png",
     "name": "Phantasmoth",
     "role": "Buffs normal attacks of allies, debuffs enemies",
     "rating": "Good"
   },
   {
+    "id": 12,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Talismane.png",
     "name": "Talismane",
     "role": "Increases allies defence, controls enemies",
     "rating": "Great"
   },
   {
+    "id": 11,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Flutterplume Owl.png",
     "name": "Flutterplume Owl",
     "role": "Grants haste to allies, improves buffs received by allies",
     "rating": "Great"
   },
   {
+    "id": 10,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Bellbellow.png",
     "name": "Bellbellow",
     "role": "Heals allies, deals average damage to enemies",
     "rating": "Average"
   },
   {
+    "id": 9,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Feline Vesperio.png",
     "name": "Feline Vesperio",
     "role": "Drains energy of enemies, grants allies energy",
     "rating": "Bad"
   },
   {
+    "id": 8,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Rock Crown Lizard.png",
     "name": "Rock Crown Lizard",
     "role": "Protects and shields allies",
     "rating": "Good"
   },
   {
+    "id": 7,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Winged Lion.png",
     "name": "Winged Lion",
     "role": "Improves ultimate ability of frontrow allies",
     "rating": "Great"
   },
   {
+    "id": 6,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Blade Ridge.png",
     "name": "Blade Ridge",
     "role": "Buffs allies",
     "rating": "Good"
   },
   {
+    "id": 5,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Fire Breather.png",
     "name": "Fire Breather",
     "role": "Buffs ally carry, prevents enemy healing",
     "rating": "Average"
   },
   {
+    "id": 4,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Polar Beast.png",
     "name": "Polar Beast",
     "role": "Increases crowd control of allies, provides light crowd control",
     "rating": "Bad"
   },
   {
+    "id": 3,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Grassy Orb.png",
     "name": "Grassy Orb",
     "role": "Buffs allies",
     "rating": "Bad"
   },
   {
+    "id": 2,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Tufty Ears.png",
     "name": "Tufty Ears",
     "role": "Heals and shields allies, removes debuffs on allies",
     "rating": "Average"
   },
   {
+    "id": 1,
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Dreary Ball.png",
     "name": "Dreary Ball",
     "role": "Deals light damage to enemies, debuffs enemies",

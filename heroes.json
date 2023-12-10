@@ -704,6 +704,66 @@
     "amount_of_furniture": 3,
     "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
+  {
+    "id": 49,
+    "name": "Wu-kong",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Wu-kong.png",
+    "tier": "Ascended",
+    "faction": "Celestial",
+    "type": "Strength",
+    "class": "Warrior",
+    "rating": "Bad",
+    "ascension_level": "Elite",
+    "amount_of_stars": 0,
+    "signature_item_level": 0,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "id": 50,
+    "name": "Khazard",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Khazard.png",
+    "tier": "Ascended",
+    "faction": "Hypogean",
+    "type": "Intelligence",
+    "class": "Mage",
+    "rating": "Average",
+    "ascension_level": "Mythic",
+    "amount_of_stars": 0,
+    "signature_item_level": 30,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "id": 51,
+    "name": "Skriath",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Skriath.png",
+    "tier": "Ascended",
+    "faction": "Mauler",
+    "type": "Intelligence",
+    "class": "Mage",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 30,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "id": 52,
+    "name": "Solice",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Solice.png",
+    "tier": "Ascended",
+    "faction": "Wilder",
+    "type": "Intelligence",
+    "class": "Mage",
+    "rating": "Bad",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 10,
+    "amount_of_furniture": 3,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
 
 
 

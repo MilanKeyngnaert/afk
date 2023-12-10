@@ -16,22 +16,6 @@
         "class": "Mage"
       },
       {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Wu-kong.png",
-        "name": "Wu-kong",
-        "tier": "Ascended",
-        "faction": "Celestial",
-        "type": "Strength",
-        "class": "Warrior"
-      },
-      {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Khazard.png",
-        "name": "Khazard",
-        "tier": "Ascended",
-        "faction": "Hypogean",
-        "type": "Intelligence",
-        "class": "Mage"
-      },
-      {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Silvina.png",
         "name": "Silvina",
         "tier": "Legendary",

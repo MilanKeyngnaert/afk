@@ -3,242 +3,286 @@
         "id": 1,
         "name": "First original comp",
         "gamemodes": ["Campaign", "PvP", "Labyrinth"],
-        "1": "Hendrik",
-        "2": "Lucius",
-        "3": "Belinda",
-        "4": "Rowan",
-        "5": "Rosaline",
-        "pet": "Dreary Ball"
+        "heroes": [
+            {"id": 1, "name": "Hendrik", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hendrik.png"},
+            null,
+            {"id": 2, "name": "Belinda", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Belinda.png"},
+            null,
+            null
+        ],
+        "pet": null
     },
     {
         "id": 2,
         "name": "God comp",
         "gamemodes": ["Campaign", "PvP", "Treasure_Scramble", "Treasure_Vanguard"],
-        "1": "Rowan",
-        "2": "Talene",
-        "3": "Elijah & Lailah",
-        "4": "Mehira",
-        "5": "Ezizh",
-        "pet": "Slumber Seal"
+        "heroes": [
+            {"id": 35, "name": "Rowan", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rowan.png"},
+            {"id": 47, "name": "Talene", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Talene.png"},
+            {"id": 36, "name": "Elijah & Lailah", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Elijah & Lailah.png"},
+            {"id": 33, "name": "Mehira", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Mehira.png"},
+            {"id": 26, "name": "Ezizh", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ezizh.png"}
+        ],
+        "pet": {"id": 15, "name": "Slumber Seal", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Slumber Seal.png"}
     },
     {
         "id": 3,
         "name": "dummyFormation1",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     },
     {
         "id": 4,
         "name": "dummyFormation2",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            null,
+            null,
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     },
     {
         "id": 5,
         "name": "dummyFormation3",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            null,
+            null,
+            null
+        ],
+        "pet": null
     },
     {
         "id": 6,
         "name": "dummyFormation4",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            null,
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     },
     {
         "id": 7,
         "name": "dummyFormation5",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            null
+        ],
+        "pet": null
     },
     {
         "id": 8,
         "name": "dummyFormation6",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     },
     {
         "id": 9,
         "name": "dummyFormation7",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "",
-        "3": "",
-        "4": "",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            null,
+            null,
+            null,
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     },
     {
         "id": 10,
         "name": "dummyFormation8",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": "Blade Ridge"
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": {"id": 6, "name": "Blade Ridge", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Blade Ridge.png"}
     },
     {
         "id": 11,
         "name": "dummyFormation9",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     },
     {
         "id": 12,
         "name": "dummyFormation10",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     },
     {
         "id": 13,
         "name": "dummyFormation11",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": "Shroom Spooder"
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": {"id": 17, "name": "Shroom Spooder", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/petIcons/Shroom Spooder.png"}
     },
     {
         "id": 14,
         "name": "dummyFormation12",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     },
     {
         "id": 15,
         "name": "dummyFormation13",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     },
     {
         "id": 16,
         "name": "dummyFormation14",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     },
     {
         "id": 17,
         "name": "dummyFormation15",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     },
     {
         "id": 18,
         "name": "dummyFormation16",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     },
     {
         "id": 19,
         "name": "dummyFormation17",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     },
     {
         "id": 20,
         "name": "dummyFormation18",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     },
     {
         "id": 21,
         "name": "dummyFormation19",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     },
     {
         "id": 22,
         "name": "dummyFormation20",
         "gamemodes": ["Campaign", "Labyrinth"],
-        "1": "Dreaf",
-        "2": "Dreaf",
-        "3": "Dreaf",
-        "4": "Dreaf",
-        "5": "Dreaf",
-        "pet": ""
+        "heroes": [
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"},
+            {"id": 987, "name": "Dreaf", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png"}
+        ],
+        "pet": null
     }
 ]
