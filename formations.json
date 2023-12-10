@@ -4,7 +4,7 @@
         "name": "First original comp",
         "gamemodes": ["Campaign", "PvP", "Labyrinth"],
         "heroes": [
-            {"id": 1, "name": "Hendrik", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hendrik.png"},
+            {"id": 31, "name": "Hendrik", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hendrik.png"},
             null,
             {"id": 2, "name": "Belinda", "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Belinda.png"},
             null,
