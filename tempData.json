@@ -16,14 +16,6 @@
         "class": "Mage"
       },
       {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Orthos.png",
-        "name": "Orthos",
-        "tier": "Ascended",
-        "faction": "Celestial",
-        "type": "Strength",
-        "class": "Tank"
-      },
-      {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Wu-kong.png",
         "name": "Wu-kong",
         "tier": "Ascended",
@@ -72,14 +64,6 @@
         "class": "Warrior"
       },
       {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lorsan.png",
-        "name": "Lorsan",
-        "tier": "Ascended",
-        "faction": "Wilder",
-        "type": "Intelligence",
-        "class": "Mage"
-      },
-      {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ankhira.png",
         "name": "Ankhira",
         "tier": "Legendary",
@@ -118,14 +102,6 @@
         "faction": "Graveborn",
         "type": "Strength",
         "class": "Warrior"
-      },
-      {
-        "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rigby.png",
-        "name": "Rigby",
-        "tier": "Ascended",
-        "faction": "Lightbearer",
-        "type": "Strength",
-        "class": "Tank"
       },
       {
         "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ainz.png",
