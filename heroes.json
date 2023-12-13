@@ -1049,10 +1049,81 @@
     "amount_of_furniture": 0,
     "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
   },
-
-
-
-
+  {
+    "id": 72,
+    "name": "Silas",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Silas.png",
+    "tier": "Ascended",
+    "faction": "Graveborn",
+    "type": "Intelligence",
+    "class": "Support",
+    "rating": "Great",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 3,
+    "signature_item_level": 30,
+    "amount_of_furniture": 9,
+    "engraving": [5, 5, 5, 3, 3, 3, 3, 3]
+  },
+  {
+    "id": 73,
+    "name": "Mortas",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Mortas.png",
+    "tier": "Ascended",
+    "faction": "Hypogean",
+    "type": "Intelligence",
+    "class": "Support",
+    "rating": "Good",
+    "ascension_level": "Mythic",
+    "amount_of_stars": 0,
+    "signature_item_level": 20,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "id": 74,
+    "name": "Alna",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Alna.png",
+    "tier": "Ascended",
+    "faction": "Celestial",
+    "type": "Agility",
+    "class": "Warrior",
+    "rating": "Average",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 30,
+    "amount_of_furniture": 9,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "id": 75,
+    "name": "Joker",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Joker.png",
+    "tier": "Ascended",
+    "faction": "Dimensional",
+    "type": "Agility",
+    "class": "Ranger",
+    "rating": "Bad",
+    "ascension_level": "Elite",
+    "amount_of_stars": 0,
+    "signature_item_level": 0,
+    "amount_of_furniture": 0,
+    "engraving": [0, 0, 0, 0, 0, 0, 0, 0]
+  },
+  {
+    "id": 76,
+    "name": "Queen",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Queen.png",
+    "tier": "Ascended",
+    "faction": "Dimensional",
+    "type": "Strength",
+    "class": "Warrior",
+    "rating": "Good",
+    "ascension_level": "Ascended",
+    "amount_of_stars": 0,
+    "signature_item_level": 20,
+    "amount_of_furniture": 9,
+    "engraving": [5, 5, 5, 3, 3, 3, 3, 3]
+  },
 
 
 
