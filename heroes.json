@@ -2177,7 +2177,7 @@
   {
     "id": 148,
     "name": "Robin Hood",
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Robin Hood.png",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Robin Hood.jpg",
     "tier": "Ascended",
     "faction": "Dimensional",
     "type": "Agility",
@@ -2192,7 +2192,7 @@
   {
     "id": 149,
     "name": "Awakened Shemira",
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Awakened Shemira.png",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Awakened Shemira.jpg",
     "tier": "Ascended",
     "faction": "Graveborn",
     "type": "Strength",
@@ -2207,7 +2207,7 @@
   {
     "id": 150,
     "name": "Lady Simona",
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lady Simona.png",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lady Simona.jpg",
     "tier": "Ascended",
     "faction": "Graveborn",
     "type": "Intelligence",
@@ -2222,7 +2222,7 @@
   {
     "id": 151,
     "name": "Lavatune",
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lavatune.png",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lavatune.jpg",
     "tier": "Ascended",
     "faction": "Hypogean",
     "type": "Intelligence",
@@ -2237,7 +2237,7 @@
   {
     "id": 152,
     "name": "Vika",
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Vika.png",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Vika.jpg",
     "tier": "Ascended",
     "faction": "Mauler",
     "type": "Intelligence",
