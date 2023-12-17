@@ -1,6 +1,510 @@
 [
   {
     "id": 1,
+    "name": "Merek",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Merek.png",
+    "tier": "Common",
+    "faction": "Lightbearer",
+    "type": "Intelligence",
+    "class": "Support",
+    "rating": "Bad",
+    "ascension_level": "Common",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ulric",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ulric.png",
+    "tier": "Common",
+    "faction": "Lightbearer",
+    "type": "Strength",
+    "class": "Warrior",
+    "rating": "Bad",
+    "ascension_level": "Common",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bloodsnarl",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Bloodsnarl.png",
+    "tier": "Common",
+    "faction": "Mauler",
+    "type": "Strength",
+    "class": "Warrior",
+    "rating": "Bad",
+    "ascension_level": "Common",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Arkadios",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Arkadios.png",
+    "tier": "Common",
+    "faction": "Mauler",
+    "type": "Intelligence",
+    "class": "Mage",
+    "rating": "Bad",
+    "ascension_level": "Common",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dreaf",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png",
+    "tier": "Common",
+    "faction": "Wilder",
+    "type": "Intelligence",
+    "class": "Support",
+    "rating": "Bad",
+    "ascension_level": "Common",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Eletha",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Eletha.png",
+    "tier": "Common",
+    "faction": "Wilder",
+    "type": "Strength",
+    "class": "Warrior",
+    "rating": "Bad",
+    "ascension_level": "Common",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Steixius",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Steixius.png",
+    "tier": "Common",
+    "faction": "Graveborn",
+    "type": "Strength",
+    "class": "Tank",
+    "rating": "Bad",
+    "ascension_level": "Common",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Sezis",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Sezis.png",
+    "tier": "Common",
+    "faction": "Graveborn",
+    "type": "Strength",
+    "class": "Warrior",
+    "rating": "Bad",
+    "ascension_level": "Common",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Hogan",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hogan.png",
+    "tier": "Legendary",
+    "faction": "Lightbearer",
+    "type": "Strength",
+    "class": "Tank",
+    "rating": "Bad",
+    "ascension_level": "LegendaryPlus",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Angelo",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Angelo.png",
+    "tier": "Legendary",
+    "faction": "Lightbearer",
+    "type": "Intelligence",
+    "class": "Support",
+    "rating": "Bad",
+    "ascension_level": "LegendaryPlus",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Morvus",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Morvus.png",
+    "tier": "Legendary",
+    "faction": "Lightbearer",
+    "type": "Agility",
+    "class": "Ranger",
+    "rating": "Bad",
+    "ascension_level": "LegendaryPlus",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Mirael",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Mirael.png",
+    "tier": "Legendary",
+    "faction": "Lightbearer",
+    "type": "Intelligence",
+    "class": "Mage",
+    "rating": "Bad",
+    "ascension_level": "LegendaryPlus",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Ankhira",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ankhira.png",
+    "tier": "Legendary",
+    "faction": "Mauler",
+    "type": "Intelligence",
+    "class": "Support",
+    "rating": "Bad",
+    "ascension_level": "LegendaryPlus",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Golus",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Golus.png",
+    "tier": "Legendary",
+    "faction": "Mauler",
+    "type": "Strength",
+    "class": "Warrior",
+    "rating": "Bad",
+    "ascension_level": "LegendaryPlus",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Saveas",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Saveas.png",
+    "tier": "Legendary",
+    "faction": "Mauler",
+    "type": "Agility",
+    "class": "Ranger",
+    "rating": "Bad",
+    "ascension_level": "LegendaryPlus",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Ira",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ira.png",
+    "tier": "Legendary",
+    "faction": "Wilder",
+    "type": "Agility",
+    "class": "Ranger",
+    "rating": "Bad",
+    "ascension_level": "LegendaryPlus",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Ogi",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ogi.png",
+    "tier": "Legendary",
+    "faction": "Wilder",
+    "type": "Strength",
+    "class": "Tank",
+    "rating": "Bad",
+    "ascension_level": "LegendaryPlus",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Arden",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Arden.png",
+    "tier": "Legendary",
+    "faction": "Wilder",
+    "type": "Intelligence",
+    "class": "Mage",
+    "rating": "Bad",
+    "ascension_level": "LegendaryPlus",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Niru",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Niru.png",
+    "tier": "Legendary",
+    "faction": "Graveborn",
+    "type": "Intelligence",
+    "class": "Tank",
+    "rating": "Bad",
+    "ascension_level": "LegendaryPlus",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Silvina",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Silvina.png",
+    "tier": "Legendary",
+    "faction": "Graveborn",
+    "type": "Agility",
+    "class": "Ranger",
+    "rating": "Bad",
+    "ascension_level": "LegendaryPlus",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Vedan",
+    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Vedan.png",
+    "tier": "Legendary",
+    "faction": "Graveborn",
+    "type": "Agility",
+    "class": "Warrior",
+    "rating": "Bad",
+    "ascension_level": "LegendaryPlus",
+    "amount_of_stars": 0,
+    "signature_item_level": null,
+    "amount_of_furniture": null,
+    "engraving": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 22,
     "name": "Estrilda",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Estrilda.png",
     "tier": "Ascended",
@@ -24,7 +528,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 23,
     "name": "Belinda",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Belinda.png",
     "tier": "Ascended",
@@ -48,7 +552,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 24,
     "name": "Raine",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Raine.png",
     "tier": "Ascended",
@@ -72,7 +576,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 25,
     "name": "Brutus",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Brutus.png",
     "tier": "Ascended",
@@ -96,7 +600,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 26,
     "name": "Khasos",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Khasos.png",
     "tier": "Ascended",
@@ -120,7 +624,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 27,
     "name": "Vurk",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Vurk.png",
     "tier": "Ascended",
@@ -144,7 +648,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 28,
     "name": "Nemora",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Nemora.png",
     "tier": "Ascended",
@@ -168,7 +672,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 29,
     "name": "Kaz",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Kaz.png",
     "tier": "Ascended",
@@ -192,7 +696,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 30,
     "name": "Lyca",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lyca.png",
     "tier": "Ascended",
@@ -216,7 +720,7 @@
     ]
   },
   {
-    "id": 10,
+    "id": 31,
     "name": "Grezhul",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Grezhul.png",
     "tier": "Ascended",
@@ -240,7 +744,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 32,
     "name": "Shemira",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Shemira.png",
     "tier": "Ascended",
@@ -264,7 +768,7 @@
     ]
   },
   {
-    "id": 12,
+    "id": 33,
     "name": "Isabella",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Isabella.png",
     "tier": "Ascended",
@@ -288,7 +792,7 @@
     ]
   },
   {
-    "id": 13,
+    "id": 34,
     "name": "Numisu",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Numisu.png",
     "tier": "Ascended",
@@ -312,7 +816,7 @@
     ]
   },
   {
-    "id": 14,
+    "id": 35,
     "name": "Ferael",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ferael.png",
     "tier": "Ascended",
@@ -336,7 +840,7 @@
     ]
   },
   {
-    "id": 15,
+    "id": 36,
     "name": "Warek",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Warek.png",
     "tier": "Ascended",
@@ -360,7 +864,7 @@
     ]
   },
   {
-    "id": 16,
+    "id": 37,
     "name": "Ulmus",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ulmus.png",
     "tier": "Ascended",
@@ -384,7 +888,7 @@
     ]
   },
   {
-    "id": 17,
+    "id": 38,
     "name": "Tasi",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Tasi.png",
     "tier": "Ascended",
@@ -408,7 +912,7 @@
     ]
   },
   {
-    "id": 18,
+    "id": 39,
     "name": "Thoran",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Thoran.png",
     "tier": "Ascended",
@@ -432,7 +936,7 @@
     ]
   },
   {
-    "id": 19,
+    "id": 40,
     "name": "Lucius",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lucius.png",
     "tier": "Ascended",
@@ -456,7 +960,7 @@
     ]
   },
   {
-    "id": 20,
+    "id": 41,
     "name": "Thane",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Thane.png",
     "tier": "Ascended",
@@ -480,7 +984,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": 42,
     "name": "Skreg",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Skreg.png",
     "tier": "Ascended",
@@ -504,7 +1008,7 @@
     ]
   },
   {
-    "id": 22,
+    "id": 43,
     "name": "Seirus",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Seirus.png",
     "tier": "Ascended",
@@ -528,7 +1032,7 @@
     ]
   },
   {
-    "id": 23,
+    "id": 44,
     "name": "Athalia",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Athalia.png",
     "tier": "Ascended",
@@ -552,7 +1056,7 @@
     ]
   },
   {
-    "id": 24,
+    "id": 45,
     "name": "Fawkes",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Fawkes.png",
     "tier": "Ascended",
@@ -576,7 +1080,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 46,
     "name": "Ezizh",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ezizh.png",
     "tier": "Ascended",
@@ -600,7 +1104,7 @@
     ]
   },
   {
-    "id": 26,
+    "id": 47,
     "name": "Safiya",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Safiya.png",
     "tier": "Ascended",
@@ -624,7 +1128,7 @@
     ]
   },
   {
-    "id": 27,
+    "id": 48,
     "name": "Eironn",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Eironn.png",
     "tier": "Ascended",
@@ -648,7 +1152,7 @@
     ]
   },
   {
-    "id": 28,
+    "id": 49,
     "name": "Nara",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Nara.png",
     "tier": "Ascended",
@@ -672,7 +1176,7 @@
     ]
   },
   {
-    "id": 29,
+    "id": 50,
     "name": "Baden",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Baden.png",
     "tier": "Ascended",
@@ -696,7 +1200,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 51,
     "name": "Hendrik",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hendrik.png",
     "tier": "Ascended",
@@ -720,7 +1224,7 @@
     ]
   },
   {
-    "id": 31,
+    "id": 52,
     "name": "Kelthur",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Kelthur.png",
     "tier": "Ascended",
@@ -744,7 +1248,7 @@
     ]
   },
   {
-    "id": 32,
+    "id": 53,
     "name": "Mehira",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Mehira.png",
     "tier": "Ascended",
@@ -768,7 +1272,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 54,
     "name": "Gorvo",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Gorvo.png",
     "tier": "Ascended",
@@ -792,7 +1296,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 55,
     "name": "Rowan",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rowan.png",
     "tier": "Ascended",
@@ -816,7 +1320,7 @@
     ]
   },
   {
-    "id": 35,
+    "id": 56,
     "name": "Elijah & Lailah",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Elijah & Lailah.png",
     "tier": "Ascended",
@@ -840,7 +1344,7 @@
     ]
   },
   {
-    "id": 36,
+    "id": 57,
     "name": "Rosaline",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rosaline.png",
     "tier": "Ascended",
@@ -864,7 +1368,7 @@
     ]
   },
   {
-    "id": 37,
+    "id": 58,
     "name": "Antandra",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Antandra.png",
     "tier": "Ascended",
@@ -888,7 +1392,7 @@
     ]
   },
   {
-    "id": 38,
+    "id": 59,
     "name": "Satrana",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Satrana.png",
     "tier": "Ascended",
@@ -912,7 +1416,7 @@
     ]
   },
   {
-    "id": 39,
+    "id": 60,
     "name": "Zolrath",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Zolrath.png",
     "tier": "Ascended",
@@ -936,7 +1440,7 @@
     ]
   },
   {
-    "id": 40,
+    "id": 61,
     "name": "Gwyneth",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Gwyneth.png",
     "tier": "Ascended",
@@ -960,7 +1464,7 @@
     ]
   },
   {
-    "id": 41,
+    "id": 62,
     "name": "Orthos",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Orthos.png",
     "tier": "Ascended",
@@ -984,7 +1488,7 @@
     ]
   },
   {
-    "id": 42,
+    "id": 63,
     "name": "Lorsan",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lorsan.png",
     "tier": "Ascended",
@@ -1008,7 +1512,7 @@
     ]
   },
   {
-    "id": 43,
+    "id": 64,
     "name": "Rigby",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rigby.png",
     "tier": "Ascended",
@@ -1032,7 +1536,7 @@
     ]
   },
   {
-    "id": 44,
+    "id": 65,
     "name": "Tidus",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Tidus.png",
     "tier": "Ascended",
@@ -1056,7 +1560,7 @@
     ]
   },
   {
-    "id": 45,
+    "id": 66,
     "name": "Izold",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Izold.png",
     "tier": "Ascended",
@@ -1080,7 +1584,7 @@
     ]
   },
   {
-    "id": 46,
+    "id": 67,
     "name": "Talene",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Talene.png",
     "tier": "Ascended",
@@ -1104,7 +1608,7 @@
     ]
   },
   {
-    "id": 47,
+    "id": 68,
     "name": "Arthur",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Arthur.png",
     "tier": "Ascended",
@@ -1128,7 +1632,7 @@
     ]
   },
   {
-    "id": 48,
+    "id": 69,
     "name": "Wu-kong",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Wu-kong.png",
     "tier": "Ascended",
@@ -1152,7 +1656,7 @@
     ]
   },
   {
-    "id": 49,
+    "id": 70,
     "name": "Khazard",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Khazard.png",
     "tier": "Ascended",
@@ -1176,7 +1680,7 @@
     ]
   },
   {
-    "id": 50,
+    "id": 71,
     "name": "Skriath",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Skriath.png",
     "tier": "Ascended",
@@ -1200,7 +1704,7 @@
     ]
   },
   {
-    "id": 51,
+    "id": 72,
     "name": "Solise",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Solise.png",
     "tier": "Ascended",
@@ -1224,7 +1728,7 @@
     ]
   },
   {
-    "id": 52,
+    "id": 73,
     "name": "Cecilia",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Cecilia.png",
     "tier": "Ascended",
@@ -1248,7 +1752,7 @@
     ]
   },
   {
-    "id": 53,
+    "id": 74,
     "name": "Mezoth",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Mezoth.png",
     "tier": "Ascended",
@@ -1272,7 +1776,7 @@
     ]
   },
   {
-    "id": 54,
+    "id": 75,
     "name": "Oden",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Oden.png",
     "tier": "Ascended",
@@ -1296,7 +1800,7 @@
     ]
   },
   {
-    "id": 55,
+    "id": 76,
     "name": "Oscar",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Oscar.png",
     "tier": "Ascended",
@@ -1320,7 +1824,7 @@
     ]
   },
   {
-    "id": 56,
+    "id": 77,
     "name": "Ukyo",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ukyo.png",
     "tier": "Ascended",
@@ -1344,7 +1848,7 @@
     ]
   },
   {
-    "id": 57,
+    "id": 78,
     "name": "Saurus",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Saurus.png",
     "tier": "Ascended",
@@ -1368,7 +1872,7 @@
     ]
   },
   {
-    "id": 58,
+    "id": 79,
     "name": "Torne",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Torne.png",
     "tier": "Ascended",
@@ -1392,7 +1896,7 @@
     ]
   },
   {
-    "id": 59,
+    "id": 80,
     "name": "Anoki",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Anoki.png",
     "tier": "Ascended",
@@ -1416,7 +1920,7 @@
     ]
   },
   {
-    "id": 60,
+    "id": 81,
     "name": "Flora",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Flora.png",
     "tier": "Ascended",
@@ -1440,7 +1944,7 @@
     ]
   },
   {
-    "id": 61,
+    "id": 82,
     "name": "Nakoruru",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Nakoruru.png",
     "tier": "Ascended",
@@ -1464,7 +1968,7 @@
     ]
   },
   {
-    "id": 62,
+    "id": 83,
     "name": "Daimon",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Daimon.png",
     "tier": "Ascended",
@@ -1488,7 +1992,7 @@
     ]
   },
   {
-    "id": 63,
+    "id": 84,
     "name": "Drez",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Drez.png",
     "tier": "Ascended",
@@ -1512,7 +2016,7 @@
     ]
   },
   {
-    "id": 64,
+    "id": 85,
     "name": "Ezio",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ezio.png",
     "tier": "Ascended",
@@ -1536,7 +2040,7 @@
     ]
   },
   {
-    "id": 65,
+    "id": 86,
     "name": "Theowyn",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Theowyn.png",
     "tier": "Ascended",
@@ -1560,7 +2064,7 @@
     ]
   },
   {
-    "id": 66,
+    "id": 87,
     "name": "Zaphrael",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Zaphrael.png",
     "tier": "Ascended",
@@ -1584,7 +2088,7 @@
     ]
   },
   {
-    "id": 67,
+    "id": 88,
     "name": "Lucretia",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lucretia.png",
     "tier": "Ascended",
@@ -1608,7 +2112,7 @@
     ]
   },
   {
-    "id": 68,
+    "id": 89,
     "name": "Ainz",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ainz.png",
     "tier": "Ascended",
@@ -1632,7 +2136,7 @@
     ]
   },
   {
-    "id": 69,
+    "id": 90,
     "name": "Albedo",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Albedo.png",
     "tier": "Ascended",
@@ -1656,7 +2160,7 @@
     ]
   },
   {
-    "id": 70,
+    "id": 91,
     "name": "Pippa",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Pippa.png",
     "tier": "Ascended",
@@ -1680,7 +2184,7 @@
     ]
   },
   {
-    "id": 71,
+    "id": 92,
     "name": "Silas",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Silas.png",
     "tier": "Ascended",
@@ -1704,7 +2208,7 @@
     ]
   },
   {
-    "id": 72,
+    "id": 93,
     "name": "Mortas",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Mortas.png",
     "tier": "Ascended",
@@ -1728,7 +2232,7 @@
     ]
   },
   {
-    "id": 73,
+    "id": 94,
     "name": "Alna",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Alna.png",
     "tier": "Ascended",
@@ -1752,7 +2256,7 @@
     ]
   },
   {
-    "id": 74,
+    "id": 95,
     "name": "Joker",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Joker.png",
     "tier": "Ascended",
@@ -1776,7 +2280,7 @@
     ]
   },
   {
-    "id": 75,
+    "id": 96,
     "name": "Queen",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Queen.png",
     "tier": "Ascended",
@@ -1800,7 +2304,7 @@
     ]
   },
   {
-    "id": 76,
+    "id": 97,
     "name": "Kren",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Kren.png",
     "tier": "Ascended",
@@ -1824,7 +2328,7 @@
     ]
   },
   {
-    "id": 77,
+    "id": 98,
     "name": "Respen",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Respen.png",
     "tier": "Ascended",
@@ -1848,7 +2352,7 @@
     ]
   },
   {
-    "id": 78,
+    "id": 99,
     "name": "Eluard",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Eluard.png",
     "tier": "Ascended",
@@ -1872,7 +2376,7 @@
     ]
   },
   {
-    "id": 79,
+    "id": 100,
     "name": "Peggy",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Peggy.png",
     "tier": "Ascended",
@@ -1896,7 +2400,7 @@
     ]
   },
   {
-    "id": 80,
+    "id": 101,
     "name": "Raku",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Raku.png",
     "tier": "Ascended",
@@ -1920,7 +2424,7 @@
     ]
   },
   {
-    "id": 81,
+    "id": 102,
     "name": "Morael",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Morael.png",
     "tier": "Ascended",
@@ -1944,7 +2448,7 @@
     ]
   },
   {
-    "id": 82,
+    "id": 103,
     "name": "Prince of Persia",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Prince of Persia.png",
     "tier": "Ascended",
@@ -1968,7 +2472,7 @@
     ]
   },
   {
-    "id": 83,
+    "id": 104,
     "name": "Desira",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Desira.png",
     "tier": "Ascended",
@@ -1992,7 +2496,7 @@
     ]
   },
   {
-    "id": 84,
+    "id": 105,
     "name": "Leofric",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Leofric.png",
     "tier": "Ascended",
@@ -2016,7 +2520,7 @@
     ]
   },
   {
-    "id": 85,
+    "id": 106,
     "name": "Walker",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Walker.png",
     "tier": "Ascended",
@@ -2040,7 +2544,7 @@
     ]
   },
   {
-    "id": 86,
+    "id": 107,
     "name": "Merlin",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Merlin.png",
     "tier": "Ascended",
@@ -2064,7 +2568,7 @@
     ]
   },
   {
-    "id": 87,
+    "id": 108,
     "name": "Thali",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Thali.png",
     "tier": "Ascended",
@@ -2088,7 +2592,7 @@
     ]
   },
   {
-    "id": 88,
+    "id": 109,
     "name": "Titus",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Titus.png",
     "tier": "Ascended",
@@ -2112,7 +2616,7 @@
     ]
   },
   {
-    "id": 89,
+    "id": 110,
     "name": "Hodgkin",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Thali.png",
     "tier": "Ascended",
@@ -2136,7 +2640,7 @@
     ]
   },
   {
-    "id": 90,
+    "id": 111,
     "name": "Morrow",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Morrow.png",
     "tier": "Ascended",
@@ -2160,7 +2664,7 @@
     ]
   },
   {
-    "id": 91,
+    "id": 112,
     "name": "Zikis",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Zikis.png",
     "tier": "Ascended",
@@ -2184,7 +2688,7 @@
     ]
   },
   {
-    "id": 92,
+    "id": 113,
     "name": "Granit",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Granit.png",
     "tier": "Ascended",
@@ -2208,7 +2712,7 @@
     ]
   },
   {
-    "id": 93,
+    "id": 114,
     "name": "Leonardo",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Leonardo.png",
     "tier": "Ascended",
@@ -2232,7 +2736,7 @@
     ]
   },
   {
-    "id": 94,
+    "id": 115,
     "name": "Mishka",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Mishka.png",
     "tier": "Ascended",
@@ -2256,7 +2760,7 @@
     ]
   },
   {
-    "id": 95,
+    "id": 116,
     "name": "Haelus",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Haelus.png",
     "tier": "Ascended",
@@ -2280,7 +2784,7 @@
     ]
   },
   {
-    "id": 96,
+    "id": 117,
     "name": "Treznor",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Treznor.png",
     "tier": "Ascended",
@@ -2304,7 +2808,7 @@
     ]
   },
   {
-    "id": 97,
+    "id": 118,
     "name": "Thesku",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Thesku.png",
     "tier": "Ascended",
@@ -2328,7 +2832,7 @@
     ]
   },
   {
-    "id": 98,
+    "id": 119,
     "name": "Frampton",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Frampton.png",
     "tier": "Ascended",
@@ -2352,7 +2856,7 @@
     ]
   },
   {
-    "id": 99,
+    "id": 120,
     "name": "Astar",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Astar.png",
     "tier": "Ascended",
@@ -2376,7 +2880,7 @@
     ]
   },
   {
-    "id": 100,
+    "id": 121,
     "name": "Awakened Talene",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Awakened Talene.png",
     "tier": "Ascended",
@@ -2400,7 +2904,7 @@
     ]
   },
   {
-    "id": 101,
+    "id": 122,
     "name": "Scarlet",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Scarlet.png",
     "tier": "Ascended",
@@ -2424,7 +2928,7 @@
     ]
   },
   {
-    "id": 102,
+    "id": 123,
     "name": "Melusina",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Melusina.png",
     "tier": "Ascended",
@@ -2448,7 +2952,7 @@
     ]
   },
   {
-    "id": 103,
+    "id": 124,
     "name": "Fane",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Fane.png",
     "tier": "Ascended",
@@ -2472,7 +2976,7 @@
     ]
   },
   {
-    "id": 104,
+    "id": 125,
     "name": "Awakened Ezizh",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Awakened Ezizh.png",
     "tier": "Ascended",
@@ -2496,7 +3000,7 @@
     ]
   },
   {
-    "id": 105,
+    "id": 126,
     "name": "Alaro",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Alaro.png",
     "tier": "Ascended",
@@ -2520,7 +3024,7 @@
     ]
   },
   {
-    "id": 106,
+    "id": 127,
     "name": "Audrae",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Audrae.png",
     "tier": "Ascended",
@@ -2544,7 +3048,7 @@
     ]
   },
   {
-    "id": 107,
+    "id": 128,
     "name": "Oku",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Oku.png",
     "tier": "Ascended",
@@ -2568,7 +3072,7 @@
     ]
   },
   {
-    "id": 108,
+    "id": 129,
     "name": "Awakened Thane",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Awakened Thane.png",
     "tier": "Ascended",
@@ -2592,7 +3096,7 @@
     ]
   },
   {
-    "id": 109,
+    "id": 130,
     "name": "Vyloris",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Vyloris.png",
     "tier": "Ascended",
@@ -2616,7 +3120,7 @@
     ]
   },
   {
-    "id": 110,
+    "id": 131,
     "name": "Sonja",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Sonja.png",
     "tier": "Ascended",
@@ -2640,7 +3144,7 @@
     ]
   },
   {
-    "id": 111,
+    "id": 132,
     "name": "Anasta",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Anasta.png",
     "tier": "Ascended",
@@ -2664,7 +3168,7 @@
     ]
   },
   {
-    "id": 112,
+    "id": 133,
     "name": "Kalene",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Kalene.png",
     "tier": "Ascended",
@@ -2688,7 +3192,7 @@
     ]
   },
   {
-    "id": 113,
+    "id": 134,
     "name": "Awakened Brutus",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Awakened Brutus.png",
     "tier": "Ascended",
@@ -2712,7 +3216,7 @@
     ]
   },
   {
-    "id": 114,
+    "id": 135,
     "name": "Joan of Arc",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Joan of Arc.png",
     "tier": "Ascended",
@@ -2736,7 +3240,7 @@
     ]
   },
   {
-    "id": 115,
+    "id": 136,
     "name": "Eorin",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Eorin.png",
     "tier": "Ascended",
@@ -2760,7 +3264,7 @@
     ]
   },
   {
-    "id": 116,
+    "id": 137,
     "name": "Tarnos",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Tarnos.png",
     "tier": "Ascended",
@@ -2784,7 +3288,7 @@
     ]
   },
   {
-    "id": 117,
+    "id": 138,
     "name": "Awakened Solise",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Awakened Solise.png",
     "tier": "Ascended",
@@ -2808,7 +3312,7 @@
     ]
   },
   {
-    "id": 118,
+    "id": 139,
     "name": "Gerald",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Gerald.png",
     "tier": "Ascended",
@@ -2832,7 +3336,7 @@
     ]
   },
   {
-    "id": 119,
+    "id": 140,
     "name": "Yennefer",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Yennefer.png",
     "tier": "Ascended",
@@ -2856,7 +3360,7 @@
     ]
   },
   {
-    "id": 120,
+    "id": 141,
     "name": "Canisa & Ruke",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Canisa & Ruke.png",
     "tier": "Ascended",
@@ -2880,7 +3384,7 @@
     ]
   },
   {
-    "id": 121,
+    "id": 142,
     "name": "Nevanthi",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Nevanthi.png",
     "tier": "Ascended",
@@ -2904,7 +3408,7 @@
     ]
   },
   {
-    "id": 122,
+    "id": 143,
     "name": "Awakened Baden",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Awakened Baden.png",
     "tier": "Ascended",
@@ -2928,7 +3432,7 @@
     ]
   },
   {
-    "id": 123,
+    "id": 144,
     "name": "Salaki",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Salaki.png",
     "tier": "Ascended",
@@ -2952,7 +3456,7 @@
     ]
   },
   {
-    "id": 124,
+    "id": 145,
     "name": "Palmer",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Palmer.png",
     "tier": "Ascended",
@@ -2976,7 +3480,7 @@
     ]
   },
   {
-    "id": 125,
+    "id": 146,
     "name": "Veithael",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Veithael.png",
     "tier": "Ascended",
@@ -3000,7 +3504,7 @@
     ]
   },
   {
-    "id": 126,
+    "id": 147,
     "name": "Mulan",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Mulan.png",
     "tier": "Ascended",
@@ -3024,7 +3528,7 @@
     ]
   },
   {
-    "id": 127,
+    "id": 148,
     "name": "Awakened Belinda",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Awakened Belinda.png",
     "tier": "Ascended",
@@ -3048,7 +3552,7 @@
     ]
   },
   {
-    "id": 128,
+    "id": 149,
     "name": "Tamrus",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Tamrus.png",
     "tier": "Ascended",
@@ -3072,7 +3576,7 @@
     ]
   },
   {
-    "id": 129,
+    "id": 150,
     "name": "Olgath",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Olgath.png",
     "tier": "Ascended",
@@ -3096,7 +3600,7 @@
     ]
   },
   {
-    "id": 130,
+    "id": 151,
     "name": "Edwin",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Edwin.png",
     "tier": "Ascended",
@@ -3120,7 +3624,7 @@
     ]
   },
   {
-    "id": 131,
+    "id": 152,
     "name": "Awakened Maetra",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Awakened Maetra.png",
     "tier": "Ascended",
@@ -3144,7 +3648,7 @@
     ]
   },
   {
-    "id": 132,
+    "id": 153,
     "name": "Crassio",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Crassio.png",
     "tier": "Ascended",
@@ -3168,7 +3672,7 @@
     ]
   },
   {
-    "id": 133,
+    "id": 154,
     "name": "Emilia",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Emilia.png",
     "tier": "Ascended",
@@ -3192,7 +3696,7 @@
     ]
   },
   {
-    "id": 134,
+    "id": 155,
     "name": "Rem",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Rem.png",
     "tier": "Ascended",
@@ -3216,7 +3720,7 @@
     ]
   },
   {
-    "id": 135,
+    "id": 156,
     "name": "Awakened Athalia",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Awakened Athalia.png",
     "tier": "Ascended",
@@ -3240,7 +3744,7 @@
     ]
   },
   {
-    "id": 136,
+    "id": 157,
     "name": "Ginneas",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ginneas.png",
     "tier": "Ascended",
@@ -3264,7 +3768,7 @@
     ]
   },
   {
-    "id": 137,
+    "id": 158,
     "name": "Daemia",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Daemia.png",
     "tier": "Ascended",
@@ -3288,7 +3792,7 @@
     ]
   },
   {
-    "id": 138,
+    "id": 159,
     "name": "Trishea",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Trishea.png",
     "tier": "Ascended",
@@ -3312,7 +3816,7 @@
     ]
   },
   {
-    "id": 139,
+    "id": 160,
     "name": "Awakened Safiya",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Awakened Safiya.png",
     "tier": "Ascended",
@@ -3336,7 +3840,7 @@
     ]
   },
   {
-    "id": 140,
+    "id": 161,
     "name": "Ivan",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Ivan.png",
     "tier": "Ascended",
@@ -3360,7 +3864,7 @@
     ]
   },
   {
-    "id": 141,
+    "id": 162,
     "name": "Naroko",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Naroko.png",
     "tier": "Ascended",
@@ -3384,7 +3888,7 @@
     ]
   },
   {
-    "id": 142,
+    "id": 163,
     "name": "Liberta",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Liberta.png",
     "tier": "Ascended",
@@ -3408,7 +3912,7 @@
     ]
   },
   {
-    "id": 143,
+    "id": 164,
     "name": "Lucilla",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lucilla.png",
     "tier": "Ascended",
@@ -3432,7 +3936,7 @@
     ]
   },
   {
-    "id": 144,
+    "id": 165,
     "name": "Awakened Lyca",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Awakened Lyca.png",
     "tier": "Ascended",
@@ -3456,7 +3960,7 @@
     ]
   },
   {
-    "id": 145,
+    "id": 166,
     "name": "Jerome",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Jerome.png",
     "tier": "Ascended",
@@ -3480,7 +3984,7 @@
     ]
   },
   {
-    "id": 146,
+    "id": 167,
     "name": "Robin Hood",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Robin Hood.jpg",
     "tier": "Ascended",
@@ -3504,7 +4008,7 @@
     ]
   },
   {
-    "id": 147,
+    "id": 168,
     "name": "Awakened Shemira",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Awakened Shemira.jpg",
     "tier": "Ascended",
@@ -3528,7 +4032,7 @@
     ]
   },
   {
-    "id": 148,
+    "id": 169,
     "name": "Lady Simona",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lady Simona.jpg",
     "tier": "Ascended",
@@ -3552,7 +4056,7 @@
     ]
   },
   {
-    "id": 149,
+    "id": 170,
     "name": "Lavatune",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Lavatune.jpg",
     "tier": "Ascended",
@@ -3576,7 +4080,7 @@
     ]
   },
   {
-    "id": 150,
+    "id": 171,
     "name": "Vika",
     "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Vika.jpg",
     "tier": "Ascended",
@@ -3588,64 +4092,6 @@
     "amount_of_stars": 0,
     "signature_item_level": 20,
     "amount_of_furniture": 0,
-    "engraving": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-
-
-
-
-
-
-
-
-
-
-  {
-    "id": 999,
-    "name": "Hogan",
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Hogan.png",
-    "tier": "Legendary",
-    "faction": "Lightbearer",
-    "type": "Strength",
-    "class": "Tank",
-    "rating": "Bad",
-    "ascension_level": "Legendary+",
-    "amount_of_stars": null,
-    "signature_item_level": null,
-    "amount_of_furniture": null,
-    "engraving": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "id": 998,
-    "name": "Dreaf",
-    "image": "https://github.com/MilanKeyngnaert/afk/raw/main/heroIcons/Dreaf.png",
-    "tier": "Common",
-    "faction": "Wilder",
-    "type": "Intelligence",
-    "class": "Support",
-    "rating": "Bad",
-    "ascension_level": "Common",
-    "amount_of_stars": null,
-    "signature_item_level": null,
-    "amount_of_furniture": null,
     "engraving": [
       0,
       0,
